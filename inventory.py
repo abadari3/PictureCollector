@@ -286,7 +286,7 @@ def getInventory(prod):
             'Option3 Value':'', 
             'SKU':'', 
             'Online Brite Creations':'', 
-            'Retail Brite Creations':'0'
+            'Retail Brite Creations':''
         }
         rows.append(row)
     
@@ -309,7 +309,8 @@ def getInventory(prod):
     #     if r['SKU'] is not None:
     #         r['Retail Brite Creations'] = 0
     for i in range(len(prod.inventory)):
-        rows[i]['Online Brite Creations'] = prod.inventory[i]
+        rows[i]['Online Brite Creations'] = prod.inventory[i][0]
+        rows[i]['Retail Brite Creations'] = prod.inventory[i][1]
 
     return rows
 
