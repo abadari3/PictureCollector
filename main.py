@@ -103,7 +103,7 @@ def Create_Product(dictrow):
     # body += "<a href=\"https://britecreations.com/pages/about\">Brite Creations</a> luxury winter fur contains the best quality responsibly sourced genuine mink, fox, and chinchilla fur. Winter fur items are fulfilled based on in-store stock availability. Depending on the style and size your order may take between 1-6 weeks. You will be updated via email and phone number regarding the status of your order."
 
     # img = soup.find("a", {"class": "MagicZoom"})
-    images = [("https://upscalemenswear.com" + url, title)]
+    images = [("https://raw.githubusercontent.com/abadari3/Shopify-Product-Manager/master/pics/" + url, title)]
 
     # imglink = "https://upscalemenswear.com" + img['href']
     # response = requests.get(imglink)
@@ -117,7 +117,7 @@ def Create_Product(dictrow):
     # image.save("pics/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-') +".png")
 
 
-    colors = [("fur " + row['Color'], images[0][0])]
+    colors = [("Fur " + row['Color'], images[0][0])]
     tags.append('color:' + row['Color'])
     
 
@@ -141,5 +141,9 @@ with open("Fur_import_2020.csv", encoding='utf-8-sig') as csvfile:
         products.append(Create_Product(row))
         print(i)
 
-# productstocsv(products)
-# productstoinventory(products)
+nprod = []
+for p in products:
+    if p is not None:
+        nprod.append(p)
+productstocsv(nprod)
+productstoinventory(nprod)
