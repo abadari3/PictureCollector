@@ -20,4 +20,9 @@ for o in original:
         # print(i)
         # i += 1
 
-productstocsv(current)
+for c in current:
+    c.inventory = []
+    for i in range(11):
+        c.inventory.append((1, 0))
+# productstocsv(current)
+productstoinventory(current)
