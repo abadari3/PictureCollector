@@ -9,7 +9,7 @@ def newProduct(rows):
     if len(rows) == 0:
         return None
     r = rows.pop(0)
-    handle = r['\ufeffHandle']
+    handle = r['Handle']
     title = r['Title']
     body = r['Body (HTML)']
     vendor = r['Vendor']
@@ -44,9 +44,8 @@ def newProduct(rows):
 
 def csvtoproducts(file):
     products = []
-    with open(file, encoding='utf8') as csvfile:
+    with open(file, encoding='unicode_escape') as csvfile:
         reader = csv.DictReader(csvfile)
-        print(reader.fieldnames)
         current = []
         i = 0
         for row in reader:
@@ -316,7 +315,7 @@ def getInventory(prod):
 
 
 def productstocsv(products):
-    with open('products.csv', 'w', newline='') as csvfile:
+    with open('products.csv', 'w', newline='', encoding='utf-8-sig') as csvfile:
         fieldnames = ['Collection', 'Handle', 'Title', 'Body (HTML)', 'Vendor', 'Type', 'Tags', 'Published', 'Option1 Name', 'Option1 Value', 'Option2 Name', 'Option2 Value', 'Option3 Name', 'Option3 Value', 'Variant SKU', 'Variant Grams', 'Variant Inventory Tracker', 'Variant Inventory Policy', 'Variant Fulfillment Service', 'Variant Price', 'Variant Compare At Price', 'Variant Requires Shipping', 'Variant Taxable', 'Variant Barcode', 'Image Src', 'Image Position', 'Image Alt Text', 'Gift Card', 'SEO Title', 'SEO Description', 'Google Shopping / Google Product Category', 'Google Shopping / Gender', 'Google Shopping / Age Group', 'Google Shopping / MPN', 'Google Shopping / AdWords Grouping', 'Google Shopping / AdWords Labels', 'Google Shopping / Condition', 'Google Shopping / Custom Product', 'Google Shopping / Custom Label 0', 'Google Shopping / Custom Label 1', 'Google Shopping / Custom Label 2', 'Google Shopping / Custom Label 3', 'Google Shopping / Custom Label 4', 'Variant Image', 'Variant Weight Unit', 'Variant Tax Code', 'Cost per item']
         # fieldnames = ['Handle', 'Title', 'Body (HTML)', 'Vendor', 'Type', 'Tags', 'Published', 'Option1 Name', 'Option1 Value', 'Option2 Name', 'Option2 Value', 'Option3 Name', 'Option3 Value', 'Variant SKU', 'Variant Grams', 'Variant Inventory Tracker', 'Variant Inventory Policy', 'Variant Fulfillment Service', 'Variant Price', 'Variant Compare At Price', 'Variant Requires Shipping', 'Variant Taxable', 'Variant Barcode', 'Image Src', 'Image Position', 'Image Alt Text', 'Gift Card', 'SEO Title', 'SEO Description', 'Google Shopping / Google Product Category', 'Google Shopping / Gender', 'Google Shopping / Age Group', 'Google Shopping / MPN', 'Google Shopping / AdWords Grouping', 'Google Shopping / AdWords Labels', 'Google Shopping / Condition', 'Google Shopping / Custom Product', 'Google Shopping / Custom Label 0', 'Google Shopping / Custom Label 1', 'Google Shopping / Custom Label 2', 'Google Shopping / Custom Label 3', 'Google Shopping / Custom Label 4', 'Variant Image', 'Variant Weight Unit', 'Variant Tax Code', 'Cost per item']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -347,7 +346,7 @@ def productstoinventory(products, multiples=None):
 def instoreinventory(csvname):
     products = []
     multiples = []
-    with open(csvname) as vivek:
+    with open(csvname, encoding='utf-8-sig') as vivek:
         reader = csv.DictReader(vivek)
         for row in reader:
             handle = row['handle']
