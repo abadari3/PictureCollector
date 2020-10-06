@@ -80,7 +80,7 @@ def Create_Product(dictrow):
         price.append(row['Price'])
         tags.append('size:' + sizes[i])
         # get title, and make handle. if title is a duplicate, then add number to handle.
-    title = row['Title']
+    title = str(row['Title']) + " - " + str(row['Color'])
     handle = title.replace(' ', '').lower().replace("-", "").replace("/", "")
     if handle not in globalhandles:
         globalhandles.append(handle)
@@ -94,28 +94,56 @@ def Create_Product(dictrow):
 
     body=""
 
+    images = []
+    if len(url) < 28:
+        imglink = "https://raw.githubusercontent.com/abadari3/Shopify-Product-Manager/master/pics/" + url
+
+        # github url for image
+        images = [(imglink, title)]
+
+            # finds and downloads swatches
+        response = requests.get(imglink)
+        image = Image.open(BytesIO(response.content))
+        x, y = image.size
+        xl = x//2 - x//20
+        xr = xl + x//10
+        yl = y//2 - y//20
+        yr = yl + y//10
+        image = image.crop((xl, yl, xr, yr))
+        image.save("swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-') +".png")
+        
+
+    else:
         # get images and body from URL.
-    # result = requests.get(url)
-    # soup = BeautifulSoup(result.content, "html.parser")
-    # details = soup.find("div", {"class": "tab-content tab-content--description"})
-    # details = details.find("ul")
-    # body = "<meta charset=\"utf-8\">\n" + str(details) + "\n"
-    # body += "<a href=\"https://britecreations.com/pages/about\">Brite Creations</a> luxury winter fur contains the best quality responsibly sourced genuine mink, fox, and chinchilla fur. Winter fur items are fulfilled based on in-store stock availability. Depending on the style and size your order may take between 1-6 weeks. You will be updated via email and phone number regarding the status of your order."
+        result = requests.get(url)
+        soup = BeautifulSoup(result.content, "html.parser")
+        details = soup.find("div", {"class": "tab-content tab-content--description"})
+        details = details.find("ul")
+        body = "<meta charset=\"utf-8\">\n" + str(details) + "\n"
+        img = soup.find("a", {"class": "MagicZoom"})
 
-    # img = soup.find("a", {"class": "MagicZoom"})
-    images = [("https://raw.githubusercontent.com/abadari3/Shopify-Product-Manager/master/pics/" + url, title)]
+        imglink = "https://upscalemenswear.com" + img['href']
 
-    # imglink = "https://upscalemenswear.com" + img['href']
-    # response = requests.get(imglink)
-    # image = Image.open(BytesIO(response.content))
-    # x, y = image.size
-    # xl = x//2 - x//20
-    # xr = xl + x//10
-    # yl = y//2 - y//20
-    # yr = yl + y//10
-    # image = image.crop((xl, yl, xr, yr))
-    # image.save("pics/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-') +".png")
+        # image from website
+        images = [(imglink, title)]
 
+        # get and download swatches
+
+        response = requests.get(imglink)
+        image = Image.open(BytesIO(response.content))
+        x, y = image.size
+        xl = x//2 - x//20
+        xr = xl + x//10
+        yl = y//2 - y//20
+        yr = yl + y//10
+        image = image.crop((xl, yl, xr, yr))
+        image.save("swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-') +".png")
+
+
+    # body footer for furs
+    body += "<a href=\"https://britecreations.com/pages/about\">Brite Creations</a> luxurious winter fur contains the best quality and responsibly sourced genuine mink, fox, and chinchilla fur.  Winter fur items are fulfilled based on in-store availability. Depending on the style and size, your order may take between 1-6 weeks. All fur is customizable; please <a href=\"https://britecreations.com/pages/contact-us\">contact us</a> for custom colors, sizes, and styles. You will be updated via email and phone number regarding the status of your order. "
+
+    
 
     colors = [("Fur " + row['Color'], images[0][0])]
     tags.append('color:' + row['Color'])
@@ -134,7 +162,7 @@ def Create_Product(dictrow):
 
 products = []
 i = 0
-with open("Fur_import_2020.csv", encoding='utf-8-sig') as csvfile:
+with open("online.csv", encoding='utf-8-sig') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         i += 1
@@ -145,5 +173,5 @@ nprod = []
 for p in products:
     if p is not None:
         nprod.append(p)
-productstocsv(nprod)
-productstoinventory(nprod)
+# productstocsv(nprod)
+# productstoinventory(nprod)
