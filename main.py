@@ -94,7 +94,7 @@ def Create_Product(dictrow):
 
     body=""
 
-    images = []
+    images = [("", "")]
     if len(url) < 28:
         imglink = "https://raw.githubusercontent.com/abadari3/Shopify-Product-Manager/master/pics/" + url
 
@@ -113,31 +113,31 @@ def Create_Product(dictrow):
         image.save("swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-') +".png")
         
 
-    else:
-        # get images and body from URL.
-        result = requests.get(url)
-        soup = BeautifulSoup(result.content, "html.parser")
-        details = soup.find("div", {"class": "tab-content tab-content--description"})
-        details = details.find("ul")
-        body = "<meta charset=\"utf-8\">\n" + str(details) + "\n"
-        img = soup.find("a", {"class": "MagicZoom"})
+    # else:
+    #     # get images and body from URL.
+    #     result = requests.get(url)
+    #     soup = BeautifulSoup(result.content, "html.parser")
+    #     details = soup.find("div", {"class": "tab-content tab-content--description"})
+    #     details = details.find("ul")
+    #     body = "<meta charset=\"utf-8\">\n" + str(details) + "\n"
+    #     img = soup.find("a", {"class": "MagicZoom"})
 
-        imglink = "https://upscalemenswear.com" + img['href']
+    #     imglink = "https://upscalemenswear.com" + img['href']
 
-        # image from website
-        images = [(imglink, title)]
+    #     # image from website
+    #     images = [(imglink, title)]
 
-        # get and download swatches
+    #     # get and download swatches
 
-        response = requests.get(imglink)
-        image = Image.open(BytesIO(response.content))
-        x, y = image.size
-        xl = x//2 - x//20
-        xr = xl + x//10
-        yl = y//2 - y//20
-        yr = yl + y//10
-        image = image.crop((xl, yl, xr, yr))
-        image.save("swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-') +".png")
+    #     response = requests.get(imglink)
+    #     image = Image.open(BytesIO(response.content))
+    #     x, y = image.size
+    #     xl = x//2 - x//20
+    #     xr = xl + x//10
+    #     yl = y//2 - y//20
+    #     yr = yl + y//10
+    #     image = image.crop((xl, yl, xr, yr))
+    #     image.save("swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-') +".png")
 
 
     # body footer for furs
@@ -173,5 +173,5 @@ nprod = []
 for p in products:
     if p is not None:
         nprod.append(p)
-# productstocsv(nprod)
+productstocsv(nprod)
 # productstoinventory(nprod)
