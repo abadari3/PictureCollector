@@ -63,6 +63,8 @@ from PIL import Image
 import requests
 from io import BytesIO
 from bs4 import BeautifulSoup
+import os.path
+from os import path
 
 globalhandles = []
 
@@ -107,10 +109,13 @@ def Create_Product(dictrow):
         x, y = image.size
         xl = x//2 - x//20
         xr = xl + x//10
-        yl = y//2 - y//20
-        yr = yl + y//10
+        yl = y//2 - x//20
+        yr = yl + x//10
         image = image.crop((xl, yl, xr, yr))
-        image.save("swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-') +".png")
+        pt = "swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-') +".png"
+
+        if not path.exists(pt):
+            image.save(pt)
         
 
     # else:
@@ -137,7 +142,10 @@ def Create_Product(dictrow):
     #     yl = y//2 - y//20
     #     yr = yl + y//10
     #     image = image.crop((xl, yl, xr, yr))
-    #     image.save("swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-') +".png")
+        pt = "swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-') +".png"
+
+        if not path.exists(pt):
+            image.save(pt)
 
 
     # body footer for furs
