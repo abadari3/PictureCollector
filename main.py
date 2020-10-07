@@ -69,6 +69,23 @@ from random import randrange
 
 globalhandles = []
 
+def saveSwatch(imglink):
+    # finds and downloads swatches
+    response = requests.get(imglink)
+    image = Image.open(BytesIO(response.content))
+    x, y = image.size
+    xl = x//2 - x//20
+    xr = xl + x//10
+    yl = y//2 - x//20
+    yr = yl + x//10
+    image = image.crop((xl, yl, xr, yr))
+    pt = "swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-')
+
+    if path.exists(pt):
+        image.save(pt + str(randrange(10)) +".png")
+    else:
+        image.save(pt +".png")
+
 def Create_Product(dictrow):
     global globalhandles
         # extend
@@ -104,21 +121,8 @@ def Create_Product(dictrow):
         # github url for image
         images = [(imglink, title)]
 
-            # finds and downloads swatches
-        response = requests.get(imglink)
-        image = Image.open(BytesIO(response.content))
-        x, y = image.size
-        xl = x//2 - x//20
-        xr = xl + x//10
-        yl = y//2 - x//20
-        yr = yl + x//10
-        image = image.crop((xl, yl, xr, yr))
-        pt = "swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-')
-
-        if path.exists(pt):
-            image.save(pt + str(randrange(10)) +".png")
-        else:
-            image.save(pt +".png")
+        # get and download swatches
+        saveSwatch(imglink)
         
 
     else:
@@ -137,20 +141,7 @@ def Create_Product(dictrow):
 
         # get and download swatches
 
-        response = requests.get(imglink)
-        image = Image.open(BytesIO(response.content))
-        x, y = image.size
-        xl = x//2 - x//20
-        xr = xl + x//10
-        yl = y//2 - y//20
-        yr = yl + y//10
-        image = image.crop((xl, yl, xr, yr))
-        pt = "swatches/"+ ("fur " + row['Color']).lower().replace(' ', '-').replace('/', '-')
-
-        if path.exists(pt):
-            image.save(pt + str(randrange(10)) +".png")
-        else:
-            image.save(pt +".png")
+        saveSwatch(imglink)
 
 
     # body footer for furs
@@ -187,4 +178,4 @@ for p in products:
     if p is not None:
         nprod.append(p)
 productstocsv(nprod)
-# productstoinventory(nprod)
+productstoinventory(nprod)
