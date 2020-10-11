@@ -1,0 +1,90 @@
+﻿Title,Material,Color,Price,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,13,14,15,Images
+Adamo,Calf,Brown,335,,,,,,,,,,,,,,, ADAMO Brown.JPG
+Adamo,Calf,Burgundy,335,,,X,X,X,,,,X,,,,X,, ADAMO Burgundy.JPG
+Adamo,Calf,Dark Grey,335,,,,X,X,,,,,,,X,X,, ADAMO Grey.JPG
+Adamo,Calf,Navy,335,,,X,X,X,X,,,,,,,,, ADAMO Navy.jpg
+Baldo,Calf,Antique Red,335,,,,,X,X,,,,,X,X,X,, BALDO Antique Red.JPG
+Baldo,Calf,Taupe,335,,,X,X,X,,,,,,,,,, BALDO Taupe.JPG
+Danilo,Calf,Blue,335,,,,,,,,,,,,,,, DANILO Blue.jpg
+Danilo,Calf,Cognac,335,,,,,,,,,,,,,,, DANILO Cognac.jpg
+Dante,Calf,Cognac/Light Blue,335,,,,,,,,,,,,,,, DANTE Cognac-L. Blue.jpg
+Dante,Calf,Black/Grey,335,,,X,X,,X,,X,X,X,X,X,,, DANTE Black-Grey.jpg
+Dario,Calf,Black/Red,365,,,X,,X,,X,,,,,X,,, DARIO Black-Red.jpg
+Dario,Calf,Cognac/Brown,365,,,X,,X,,,,,,,X,,, DARIO Cognac-Brown.jpg
+Davide,Calf,Black,345,,,X,,X,X,X,,,,X,X,,, DAVIDE Black.JPG
+Davide,Calf,Brandy,345,,,X,,X,,,,,,,X,,, DAVIDE Brandy.JPG
+Fabrizio,Calf,Black,325,,,X,X,X,X,X,X,X,X,X,X,X,, FABRIZIO Black.jpg
+Fabrizio,Calf,Brown,325,,,X,X,X,X,X,X,X,X,X,X,X,, FABRIZIO Brown.jpg
+Filippo,Calf,Black,325,,,X,X,X,X,X,X,X,X,X,X,X,, FILIPPO Black.jpg
+Filippo,Calf,Cognac,325,,,X,X,X,X,X,X,X,X,X,X,X,, FILIPPO Cognac.jpg
+Francesco,Suede,Black,325,,,X,X,X,X,X,X,X,,X,X,X,, FRANCESCO Black.JPG
+Francesco,Suede,Cognac,325,,,,,,,,,,,,,,, FRANCESCO Cognac.JPG
+Francesco,Suede,Light Grey,325,,,,,,,,,X,,,X,,, FRANCESCO Grey.JPG
+Francesco,Suede,Navy,325,,,X,X,X,X,X,X,X,X,,,,, FRANCESCO Navy.JPG
+Franco,Calf,Black,325,,,X,X,,,,,,,,,,, FRANCO Black.JPG
+Franco,Calf,Burgundy,325,,,X,X,X,X,X,,,X,,X,X,, FRANCO Burgundy.JPG
+Franco,Calf,Cognac,325,,,,,,X,X,,,X,X,X,,, FRANCO Cognac.JPG
+Franco,Calf,Navy,325,,,X,,X,,X,,,,,,,X, FRANCO Navy.jpg
+Gino,Calf,Black/Bone,335,,,,X,X,X,X,X,X,X,X,X,X,, GINO Black-Bone.JPG
+Gino,Calf,Brandy/Blue,335,,,,X,,,,X,X,,X,X,X,, GINO Brandy-Blue.JPG
+Gino,Calf,Neutro/Chocolate,335,,,,,X,,X,X,,,X,X,,, GINO Neutro-Chocolate.JPG
+Gino,Calf,Wine/Bone,335,,,,X,X,,X,,,X,,X,,, GINO Wine-Bone.JPG
+Giorgio,Calf,Antique Red,335,X,,X,X,X,,X,X,X,X,,,X,, GIORGIO Wine.JPG
+Giorgio,Calf,Black,335,,,,,,,,,,X,,,,, GIORGIO Black.JPG
+Giorgio,Calf,Cognac,335,,,X,X,,,,,,X,,,X,, GIORGIO Cognac.JPG
+Giorgio,Calf,Dark Grey,335,,,X,X,X,X,X,,X,X,,X,X,, GIORGIO Grey.JPG
+Giorgio,Calf,Navy,335,,,X,X,X,X,X,X,X,X,X,X,,, GIORGIO Navy.JPG
+Leonardo,Calf,Black,345,,,,,,,,,,,,,,, LEONARDO Leather Black.jpg
+Leonardo,Calf,Cognac,345,,,,,,,,,,,,,,, LEONARDO Leather Cognac.jpg
+Leonardo,Patent,Black,345,,,,,,,,,,,,,,, LEONARDO Patent Black.jpg
+Leonardo,Patent,Navy,345,,,,,,,,,,,,,,, LEONARDO Patent Blue.jpg
+Leonardo,Suede,Brown,345,,,X,X,X,,X,,X,X,X,X,,, LEONARDO Brown.JPG
+Leonardo,Suede,Cognac,345,,,,,,,,,,X,,,,, LEONARDO Cognac.JPG
+Livio,Calf,Black,355,,,X,,X,,X,X,X,X,X,X,X,, LIVIO Black.jpg
+Livio,Calf,Navy,355,,,X,,X,,X,X,X,X,X,X,X,, LIVIO Navy.jpg
+Livio,Calf,Taupe/Dark Brown,355,,,X,,X,,X,X,X,X,X,X,X,, LIVIO Taupe.jpg
+Lorenzo,Calf,Antique Red/Burgundy,325,,,X,X,X,X,X,X,X,,,X,,, LORENZO Antique Red-Burgundy.JPG
+Lorenzo,Calf,Antique Bone/Chocolate,325,,,X,X,X,X,X,,X,,X,X,,, LORENZO Antique Bone-Brown.JPG
+Luca,Calf,Black,325,,,,,X,,X,,,,X,X,,, LUCA Black.JPG
+Luca,Calf,Chocolate,325,,,X,X,,X,X,X,,,,X,,, LUCA Chocolate.JPG
+Lucio,Calf/Calf Embossed,Black Combo,385,,,X,,X,X,X,X,X,X,X,X,,, LUCIO Black.JPG
+Lucio,Calf/Calf Embossed,Blue Combo,385,,,,,,,,,,,,X,,, LUCIO Blue.jpg
+Lucio,Calf/Calf Embossed,Brown Combo,385,,,X,,X,X,X,X,X,X,X,X,,, LUCIO Brown.JPG
+Lucio,Calf/Calf Embossed,Green Combo,385,,,,,X,,,,,,,X,,, LUCIO Green.jpg
+Martino,Calf/Calf Embossed,Blue Combo,349,,,X,X,X,X,X,X,X,,X,X,X,, MARTINO Blue.jpg
+Martino,Calf/Calf Embossed,Brown Combo,349,,,X,X,X,,,,X,X,X,X,X,, MARTINO Brown.JPG
+Martino,Calf/Calf Embossed,Purple Combo,349,,,X,X,X,,X,,,X,X,X,,, MARTINO Purple.JPG
+Maurizio,Calf,Black,325,,,,,,,,,,,,,,, MAURIZIO Black.jpg
+Maurizio,Calf,Navy/Cognac,325,,,,,,,,,,,,,,, MAURIZIO Navy-Cognac.jpg
+Milo,Calf,Black,349,,,,,,,,,,,,,X,, MILO Black.JPG
+Milo,Calf,Chocolate,349,,,,,X,,X,,,X,,,X,, MILO Chocolate.JPG
+Nino,Suede,Black/Red,325,,,,,,,,,,,,,,, NINO Black-Red.jpg
+Nino,Suede,Green/Red,325,,,,,,,,,,,,,,, NINO Green-Red.jpg
+Oliviero,Suede,Brown,325,,,,,,,,,,,,,,, OLIVIERO Brown.JPG
+Oliviero,Suede,Olive,325,,,,,,,,,,,,,,, OLIVIERO Olive.JPG
+Pietro,Calf,Cognac/Orange,325,,,X,X,X,X,X,X,X,X,X,X,,, Pietro Cognac-Orange.jpg
+Pietro,Calf,Cognac/Navy,325,,,X,X,X,,,,,,,,,, Pietro Cognac-Navy.jpg
+Remo,Calf/Calf Embossed,Black/Grey,349,,,,,,,,,,,,,,, REMO Black-Grey.JPG
+Remo,Calf/Calf Embossed,Cognac/Chocolate,349,,,,,X,X,,X,,X,X,X,,, REMO Cognac-Brown.JPG
+Renato,Calf,Black,325,,,,,X,,X,,,X,X,,,, RENATO Black.JPG
+Renato,Calf,Purple,325,,,,,,,,,,,,,,, RENATO Purple.jpg
+Renato,Calf,Taupe,325,,,X,X,X,,X,,,,,X,,, RENATO Taupe.JPG
+Riccardo,Calf,Black,335,,,X,X,X,X,X,X,,,,X,,, RICCARDO Black.JPG
+Riccardo,Calf,Cognac,335,,,X,X,X,X,X,,X,,X,X,X,, RICCARDO Cognac.JPG
+Salvatore,Calf/Calf Embossed,Cognac,345,,,X,,X,,X,,X,,X,X,X,, SALVATORE Cognac.jpg
+Sandro,Calf,Burgundy,335,,,,,X,X,X,,X,,X,X,X,, SANDRO Burgundy.JPG
+Sandro,Calf,Cognac,335,,,X,,,,X,,,,,,,, SANDRO Cognac.JPG
+Silvio,Calf/Calf Embossed,Cognac/Navy,345,,,X,,X,,X,,X,,X,X,,, SILVIO Cognac-Navy.jpg
+Tonio,Suede,Black,335,,,,,,,,,,,,,,, TONIO Black-Red.jpg
+Tonio,Suede,Navy,335,,,,,,,,,,,,,,, TONIO Navy-Red.jpg
+Uberto,Suede,Black,325,,,,,,,,,,,,,,, UBERTO Black.jpg
+Uberto,Suede,Chocolate,325,,,,,,,,,,,,,,, UBERTO Brown.jpg
+Uberto,Suede,Navy,325,,,,,,,,,,,,,,, UBERTO Navy.jpg
+Valerio,Calf,Black Combo,365,,,,,,,,,,,,,,, VALERIO Black Combo.jpg
+Valerio,Calf,Blue Combo,365,,,,X,,X,,X,X,X,X,,,, VALERIO Blue Combo.jpg
+Valerio,Calf,Brown Combo,365,,,,,,,,,,,,,,, VALERIO Brown Combo.jpg
+Valerio,Calf,Burgundy Combo,365,,,,,,,,,,,,,,, VALERIO Burgundy Combo.jpg
+Valerio,Calf,Green Combo,365,,,,,,,,,,,,,,, VALERIO Green Combo.jpg
+Valerio,Calf,Pink Combo,365,,,X,X,X,X,X,X,X,X,X,X,X,, VALERIO Pink Combo.jpg
+Vito,Calf,Light Blue/Navy,355,,,X,,X,X,X,,X,X,X,X,X,, VITO Light Blue-Navy.jpg
+Vito,Calf,Light Taupe/Dark Brown,355,,,X,X,X,X,X,X,X,X,X,X,X,, VITO Light Taupe-Dark Brown.jpg
