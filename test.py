@@ -12,22 +12,23 @@ from random import randrange
 
 i = 0
 
-vendor = 'Emilio Franco'-
+vendor = 'Emilio Franco'
 
 def make(current):
     title = str(current[0]['Title'])
     handle = title.replace(' ', '').lower().replace("-", "").replace("/", "")
     colors = []
     images = []
-    sizes = list(current[0].keys())[4:-1]
+    sizes = [46]
     global vendor
-    body = '<ul>\n<li><b>Material: </b> ' + current[0]['Material'] +' Leather</li>\n<li><b>Vendor: </b> ' + vendor +' </li>\n<li><b>Outer Sole: </b> Leather </li>\n<li>Comes with original box and dustbag</li>\n<li>Made in Italy</li><br>\n<li>Best quality and price from <a href=\"https://britecreations.com/pages/about\">Brite Creations Atlanta</a>.</li>\n</ul>'
-    if vendor == 'Duca':
-        print(body)
-        body += '<br><li>Duca Shoes generally run about half size bigger than listed. We recommend purchasing a half-size or full size smaller from your normal size.</li></ul>'
-    type = 'Dress Shoe'
+    type = current[0]['Type']
+
+    material = current[0]['Material']
+    if type == 'Belt':
+        material += " Leather"
+    body = '<ul>\n<li><b>Material: </b> ' + material +' </li>\n<li><b>Vendor: </b> ' + vendor +' </li>\n<li><b>Size: </b> Adjustable Up to Size 46 </li>\n<li>Best quality and price from <a href=\"https://britecreations.com/pages/about\">Brite Creations Atlanta</a>.</li>\n</ul>'
     price = []
-    inventory = np.zeros((15, len(sizes)))
+    inventory = np.zeros((200, len(sizes)))
     c = -1
     for row in current:
         c += 1
@@ -71,7 +72,7 @@ def make(current):
 
 
 products = []
-with open( vendor.upper().replace(' ', '') + ".csv", encoding='utf-8-sig') as csvfile:
+with open( vendor.upper().replace(' ', '') + "MISC.csv", encoding='utf-8-sig') as csvfile:
     reader = csv.DictReader(csvfile)
     prevtitle = ''
     current = []
