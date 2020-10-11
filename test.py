@@ -26,7 +26,7 @@ def make(current):
     material = current[0]['Material']
     if type == 'Belt':
         material += " Leather"
-    body = '<ul>\n<li><b>Material: </b> ' + material +' </li>\n<li><b>Vendor: </b> ' + vendor +' </li>\n<li><b>Size: </b> Adjustable Up to Size 46 </li>\n<li>Best quality and price from <a href=\"https://britecreations.com/pages/about\">Brite Creations Atlanta</a>.</li>\n</ul>'
+    body = '<ul>\n<li><b>Vendor: </b> ' + vendor +' </li>\n<li><b>Size: </b> Adjustable Up to Size 46 </li>\n<li>Best quality and price from <a href=\"https://britecreations.com/pages/about\">Brite Creations Atlanta</a>.</li>\n</ul>'
     price = []
     inventory = np.zeros((200, len(sizes)))
     c = -1
