@@ -154,7 +154,7 @@ def Create_Product(dictrow):
     
 
     seotitle = 'Brite Creations | ' + title + ' Fur.'
-    seodescription = 'Shop at Brite Creations Atlanta for the best deal on ' + title + ' ' + 'fur.\n' + body
+    seodescription = 'Shop at Brite Creations Atlanta for the best deal on ' + title + ' ' + '.\n' + body
 
     return products.append(product(handle=handle, title=title, body=body, vendor="Winter Fur", type="Fur", sizes=['Small', 'Medium', 'Large', 'XL', '2XL', '3XL', '4XL', '5XL', '6XL', '7XL', '8XL'], colors=colors, images=images, tags=tags, price=price, seotitle=seotitle, seodescription=seodescription, sku=sku, inventory=inventory))
     # still to do

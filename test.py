@@ -12,17 +12,22 @@ from random import randrange
 
 i = 0
 
+vendor = 'Emilio Franco'-
+
 def make(current):
     title = str(current[0]['Title'])
     handle = title.replace(' ', '').lower().replace("-", "").replace("/", "")
     colors = []
     images = []
-    sizes = [7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 13, 14, 15]
-    body = '<ul>\n<li><b>Material: </b> ' + current[0]['Material'] +' Leather</li>\n<li><b>Color: </b>Blue Navy</li>\n<li><b>Outer Sole: </b>Leather</li>\n<li>Comes with original box and dustbag</li>\n<li>Made in Italy</li><br>\n<li>Duca Shoes generally run about half size bigger than listed. We recommend purchasing a half-size or full size smaller from your normal size.</li>\n</ul>'
-    vendor = 'Emilio Franco'
+    sizes = list(current[0].keys())[4:-1]
+    global vendor
+    body = '<ul>\n<li><b>Material: </b> ' + current[0]['Material'] +' Leather</li>\n<li><b>Vendor: </b> ' + vendor +' </li>\n<li><b>Outer Sole: </b> Leather </li>\n<li>Comes with original box and dustbag</li>\n<li>Made in Italy</li><br>\n<li>Best quality and price from <a href=\"https://britecreations.com/pages/about\">Brite Creations Atlanta</a>.</li>\n</ul>'
+    if vendor == 'Duca':
+        print(body)
+        body += '<br><li>Duca Shoes generally run about half size bigger than listed. We recommend purchasing a half-size or full size smaller from your normal size.</li></ul>'
     type = 'Dress Shoe'
     price = []
-    inventory = np.zeros((10, 14))
+    inventory = np.zeros((15, len(sizes)))
     c = -1
     for row in current:
         c += 1
@@ -32,13 +37,15 @@ def make(current):
                 inventory[c][i] = 1
             else:
                 inventory[c][i] = 0
-        colors.append((row['Color'], "https://raw.githubusercontent.com/abadari3/Shopify-Product-Manager/master/duca/" + row['Images']))
-        images.append(("https://raw.githubusercontent.com/abadari3/Shopify-Product-Manager/master/duca/" + row['Images'], title + " " + row['Color']))
+        colors.append((row['Color'], "https://raw.githubusercontent.com/abadari3/Shopify-Product-Manager/master/" + vendor.lower().replace(' ', '') + "/" + row['Images'].strip()))
+        images.append(("https://raw.githubusercontent.com/abadari3/Shopify-Product-Manager/master/" + vendor.lower().replace(' ', '') + "/" + row['Images'].strip(), title + " " + row['Color']))
     
     inv = []
+    i=0
     for row in inventory:
-        if 1 in row:
+        if i <= c:
             inv.append(row)
+        i+=1
     inv = np.array(inv).T
     finv = []
     for a in inv.ravel():
@@ -57,51 +64,51 @@ def make(current):
     # print(inventory)
 
 
-    seotitle = 'Brite Creations | ' + title + ' Fur.'
-    seodescription = 'Shop at Brite Creations Atlanta for the best deal on ' + title + ' ' + 'fur.\n' + body
+    seotitle = 'Brite Creations | ' + title + " " + type +' by ' + vendor
+    seodescription = 'Shop at Brite Creations Atlanta for the best deal on ' + title + " " + type +' by ' + vendor + '\n' + body
 
     return product(handle=handle, title=title, body=body, vendor=vendor, type=type, sizes=sizes, colors=colors, images=images, tags=tags, price=price, seotitle=seotitle, seodescription=seodescription, sku=sku, inventory=finv)
 
 
 products = []
-with open("EMILIOFRANCO.csv", encoding='utf-8-sig') as csvfile:
+with open( vendor.upper().replace(' ', '') + ".csv", encoding='utf-8-sig') as csvfile:
     reader = csv.DictReader(csvfile)
     prevtitle = ''
     current = []
     for row in reader:
         i += 1
-        print(row)
+        # print(row)
         if row['Title'] != prevtitle and i != 1 and len(current) != 0:
             products.append(make(current))
-            current = []
+            current = [row]
         else:
             current.append(row)
         prevtitle = row['Title']
-    make(current)
+    products.append(make(current))
 
-for p in products:
-    for c, i in p.colors:
-        response = requests.get(i)
-        image = Image.open(BytesIO(response.content))
-        x, y = image.size
-        xl = 0.3*x
-        xr = 0.4*x
-        yl = .46*y
-        yr = .56*y
+# for p in products:
+#     for c, i in p.colors:
+#         response = requests.get(i)
+#         image = Image.open(BytesIO(response.content))
+#         x, y = image.size
+#         xl = 0.3*x
+#         xr = 0.4*x
+#         yl = .46*y
+#         yr = .56*y
 
-        r=.5
+#         r=.5
         
-        xl = (xl + xr)/2-r*(xr-xl)/2
-        xr = (xl + xr)/2+r*(xr-xl)/2
-        yl = (yl + yr)/2-r*(yr-yl)/2
-        yr = (yl + yr)/2+r*(yr-yl)/2
-        image = image.crop((xl, yl, xr, yr))
-        pt = "swatches/"+ c.lower().replace(' ', '-').replace('/', '-')
+#         xl = (xl + xr)/2-r*(xr-xl)/2
+#         xr = (xl + xr)/2+r*(xr-xl)/2
+#         yl = (yl + yr)/2-r*(yr-yl)/2
+#         yr = (yl + yr)/2+r*(yr-yl)/2
+#         image = image.crop((xl, yl, xr, yr))
+#         pt = "swatches/"+ c.lower().replace(' ', '-').replace('/', '-')
 
-        if path.exists(pt):
-            image.save(pt + str(randrange(10)) +".png")
-        else:
-            image.save(pt +".png")
+#         if path.exists(pt):
+#             image.save(pt + str(randrange(10)) +".png")
+#         else:
+#             image.save(pt +".png")
 
 productstocsv(products)
-# productstoinventory(products)
+productstoinventory(products)

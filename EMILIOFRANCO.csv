@@ -34,12 +34,12 @@ Giorgio,Calf,Black,335,,,,,,,,,,X,,,,, GIORGIO Black.JPG
 Giorgio,Calf,Cognac,335,,,X,X,,,,,,X,,,X,, GIORGIO Cognac.JPG
 Giorgio,Calf,Dark Grey,335,,,X,X,X,X,X,,X,X,,X,X,, GIORGIO Grey.JPG
 Giorgio,Calf,Navy,335,,,X,X,X,X,X,X,X,X,X,X,,, GIORGIO Navy.JPG
-Leonardo,Calf,Black,345,,,,,,,,,,,,,,, LEONARDO Leather Black.jpg
-Leonardo,Calf,Cognac,345,,,,,,,,,,,,,,, LEONARDO Leather Cognac.jpg
-Leonardo,Patent,Black,345,,,,,,,,,,,,,,, LEONARDO Patent Black.jpg
-Leonardo,Patent,Navy,345,,,,,,,,,,,,,,, LEONARDO Patent Blue.jpg
-Leonardo,Suede,Brown,345,,,X,X,X,,X,,X,X,X,X,,, LEONARDO Brown.JPG
-Leonardo,Suede,Cognac,345,,,,,,,,,,X,,,,, LEONARDO Cognac.JPG
+Leonardo,Calf,Leather Black,345,,,,,,,,,,,,,,, LEONARDO Leather Black.jpg
+Leonardo,Calf,Leather Cognac,345,,,,,,,,,,,,,,, LEONARDO Leather Cognac.jpg
+Leonardo,Patent,Patent Black,345,,,,,,,,,,,,,,, LEONARDO Patent Black.jpg
+Leonardo,Patent,Patent Blue,345,,,,,,,,,,,,,,, LEONARDO Patent Blue.jpg
+Leonardo,Suede,Suede Brown,345,,,X,X,X,,X,,X,X,X,X,,, LEONARDO Brown.JPG
+Leonardo,Suede,Suede Cognac,345,,,,,,,,,,X,,,,, LEONARDO Cognac.JPG
 Livio,Calf,Black,355,,,X,,X,,X,X,X,X,X,X,X,, LIVIO Black.jpg
 Livio,Calf,Navy,355,,,X,,X,,X,X,X,X,X,X,X,, LIVIO Navy.jpg
 Livio,Calf,Taupe/Dark Brown,355,,,X,,X,,X,X,X,X,X,X,X,, LIVIO Taupe.jpg
@@ -88,3 +88,16 @@ Valerio,Calf,Green Combo,365,,,,,,,,,,,,,,, VALERIO Green Combo.jpg
 Valerio,Calf,Pink Combo,365,,,X,X,X,X,X,X,X,X,X,X,X,, VALERIO Pink Combo.jpg
 Vito,Calf,Light Blue/Navy,355,,,X,,X,X,X,,X,X,X,X,X,, VITO Light Blue-Navy.jpg
 Vito,Calf,Light Taupe/Dark Brown,355,,,X,X,X,X,X,X,X,X,X,X,X,, VITO Light Taupe-Dark Brown.jpg
+EF99,Velvet/Suede,Black,365,,,,,,,,,,,,,,,EF99 Black.jpg
+EF99,Velvet/Suede,Blue,365,,,,,,,,,,,,,,,EF99 Blue.jpg
+EF99,Velvet/Suede,Cognac,365,,,,,,,,,,,,,,,EF99 Cognac.jpg
+EF286,Velvet,Black/Gold,365,,,X,X,,X,,,X,X,X,,,,EF286 black gold.jpg
+EF286,Velvet,Black/Silver,365,,,,,,,,,,,,,,,EF286 black silver.jpg
+EF286,Velvet,Burgundy/Gold,365,,,X,,X,,X,X,,,,X,,,EF286 burgundy gold.jpg
+EF286,Velvet,Navy/Silver,365,,,X,,X,,,,,,X,X,,,EF286 navy silver.jpg
+EF13P,Velvet,Black/Gold,369,,,X,X,X,X,X,X,,,,X,,,EF13P Black.jpg
+EF13P,Velvet,Burgundy/Gold,369,,,,,X,,,,,X,,,,,EF13P Burgundy.jpg
+EF102,Suede,Black,365,,,X,,,,X,,,,,,,,EF102 black.jpg
+EF102,Suede,Green,365,,,X,,X,,X,,,,,X,X,,EF102 green.jpg
+EF102,Suede,Navy,365,,,,,X,,,,,,,X,,,EF102 navy.jpg
+EF102,Suede,Red,365,,,,,X,,,,,X,,,X,,EF102 red.jpg
