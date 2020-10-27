@@ -12,7 +12,7 @@ from random import randrange
 
 i = 0
 
-vendor = 'Emilio Franco'
+vendor = 'Fennix'
 
 def make(current):
     title = str(current[0]['Title'])
@@ -87,29 +87,29 @@ with open( vendor.upper().replace(' ', '') + "MISC.csv", encoding='utf-8-sig') a
         prevtitle = row['Title']
     products.append(make(current))
 
-# for p in products:
-#     for c, i in p.colors:
-#         response = requests.get(i)
-#         image = Image.open(BytesIO(response.content))
-#         x, y = image.size
-#         xl = 0.3*x
-#         xr = 0.4*x
-#         yl = .46*y
-#         yr = .56*y
+for p in products:
+    for c, i in p.colors:
+        response = requests.get(i)
+        image = Image.open(BytesIO(response.content))
+        x, y = image.size
+        xl = 0.45*x
+        xr = 0.55*x
+        yl = .45*y
+        yr = .55*y
 
-#         r=.5
+        r=.7
         
-#         xl = (xl + xr)/2-r*(xr-xl)/2
-#         xr = (xl + xr)/2+r*(xr-xl)/2
-#         yl = (yl + yr)/2-r*(yr-yl)/2
-#         yr = (yl + yr)/2+r*(yr-yl)/2
-#         image = image.crop((xl, yl, xr, yr))
-#         pt = "swatches/"+ c.lower().replace(' ', '-').replace('/', '-')
+        xl = (xl + xr)/2-r*(xr-xl)/2
+        xr = (xl + xr)/2+r*(xr-xl)/2
+        yl = (yl + yr)/2-r*(yr-yl)/2
+        yr = (yl + yr)/2+r*(yr-yl)/2
+        image = image.crop((xl, yl, xr, yr))
+        pt = "swatches/"+ c.lower().replace(' ', '-').replace('/', '-')
 
-#         if path.exists(pt):
-#             image.save(pt + str(randrange(10)) +".png")
-#         else:
-#             image.save(pt +".png")
+        if path.exists(pt):
+            image.save(pt + str(randrange(10)) +".png")
+        else:
+            image.save(pt +".png")
 
 productstocsv(products)
 productstoinventory(products)

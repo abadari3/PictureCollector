@@ -1,60 +1,28 @@
 Handle,Title,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,SKU,Online Brite Creations,Retail Brite Creations
-201,201,Size,46,Color,Antique Red,,,201-46-antiquered,1,0
-201,,,46,,Brandy,,,201-46-brandy,1,0
-201,,,46,,Burgundy,,,201-46-burgundy,0,0
-201,,,46,,Chocolate,,,201-46-chocolate,1,0
-201,,,46,,Cognac,,,201-46-cognac,1,0
-201,,,46,,Dark Grey,,,201-46-darkgrey,1,0
-201,,,46,,Fuscia,,,201-46-fuscia,1,0
-201,,,46,,Light Blue,,,201-46-lightblue,1,0
-201,,,46,,Navy,,,201-46-navy,0,0
-201,,,46,,Ocean Blue,,,201-46-oceanblue,1,0
-201,,,46,,Pink,,,201-46-pink,0,0
-201,,,46,,Purple,,,201-46-purple,1,0
-201,,,46,,Teal,,,201-46-teal,1,0
-202,202,Size,46,Color,Black,Material,Suede 35MM,202-46-black-suede 35mm-suede 35mm,1,0
-202,,,46,,Brown,,Suede 35MM,202-46-brown-suede 35mm-suede 35mm,1,0
-202,,,46,,Cognac,,Suede 35MM,202-46-cognac-suede 35mm-suede 35mm,1,0
-202,,,46,,Light Grey,,Suede 35MM,202-46-lightgrey-suede 35mm-suede 35mm,0,0
-202,,,46,,Navy,,Suede 35MM,202-46-navy-suede 35mm-suede 35mm,1,0
-202,,,46,,Red,,Suede 35MM,202-46-red-suede 35mm-suede 35mm,1,0
-202,,,46,,Black,,Seude 40MM,202-46-black-seude 40mm-seude 40mm,0,0
-202,,,46,,Brown,,Seude 40MM,202-46-brown-seude 40mm-seude 40mm,0,0
-202,,,46,,Cognac,,Seude 40MM,202-46-cognac-seude 40mm-seude 40mm,0,0
-202,,,46,,Light Grey,,Seude 40MM,202-46-lightgrey-seude 40mm-seude 40mm,0,0
-202,,,46,,Navy,,Seude 40MM,202-46-navy-seude 40mm-seude 40mm,1,0
-202,,,46,,Red,,Seude 40MM,202-46-red-seude 40mm-seude 40mm,0,0
-203,203,Size,46,Color,Black,Material,Calf 35MM,203-46-black-calf 35mm,0,0
-203,,,46,,Cognac,,Calf 35MM,203-46-cognac-calf 35mm,0,0
-203,,,46,,Black,,Calf 40MM,203-46-black-calf 40mm,0,0
-203,,,46,,Cognac,,Calf 40MM,203-46-cognac-calf 40mm,0,0
-204,204,Size,46,Color,Black,Material,Velvet/Suede 35MM,204-46-black-velvet/suede 35mm,0,0
-204,,,46,,Blue,,Velvet/Suede 35MM,204-46-blue-velvet/suede 35mm,0,0
-204,,,46,,Burgundy,,Velvet/Suede 35MM,204-46-burgundy-velvet/suede 35mm,0,0
-204,,,46,,Cognac,,Velvet/Suede 35MM,204-46-cognac-velvet/suede 35mm,0,0
-204,,,46,,Black,,Velvet/Suede 40MM,204-46-black-velvet/suede 40mm,1,0
-204,,,46,,Blue,,Velvet/Suede 40MM,204-46-blue-velvet/suede 40mm,1,0
-204,,,46,,Burgundy,,Velvet/Suede 40MM,204-46-burgundy-velvet/suede 40mm,1,0
-204,,,46,,Cognac,,Velvet/Suede 40MM,204-46-cognac-velvet/suede 40mm,1,0
-b35,B35,Size,46,Color,Black/Gold,,,b35-46-black/gold,1,0
-b35,,,46,,Black/Silver,,,b35-46-black/silver,1,0
-b35,,,46,,Navy/Gold,,,b35-46-navy/gold,1,0
-b35,,,46,,Navy/Silver,,,b35-46-navy/silver,1,0
-b35,,,46,,Green/Gold,,,b35-46-green/gold,1,0
-b35,,,46,,White/Gold,,,b35-46-white/gold,1,0
-b35,,,46,,Antique Rose/Gold,,,b35-46-antiquerose/gold,1,0
-b40,B40,Size,46,Color,Black/Gold,,,b40-46-black/gold,1,0
-b40,,,46,,Black/Silver,,,b40-46-black/silver,1,0
-b40,,,46,,Navy/Gold,,,b40-46-navy/gold,1,0
-b40,,,46,,Navy/Silver,,,b40-46-navy/silver,1,0
-b40,,,46,,Green/Gold,,,b40-46-green/gold,1,0
-b40,,,46,,White/Gold,,,b40-46-white/gold,1,0
-b40,,,46,,Antique Rose/Gold,,,b40-46-antiquerose/gold,1,0
-cufflink,Cufflink,Size,46,Color,Black/Gold,,,cufflink-46-black/gold,1,0
-cufflink,,,46,,Black/Silver,,,cufflink-46-black/silver,1,0
-cufflink,,,46,,Burgundy/Gold,,,cufflink-46-burgundy/gold,1,0
-cufflink,,,46,,Olive/Gold,,,cufflink-46-olive/gold,1,0
-cufflink,,,46,,Navy/Silver,,,cufflink-46-navy/silver,1,0
-cufflink,,,46,,Red/Gold,,,cufflink-46-red/gold,1,0
-cufflink,,,46,,White/Gold,,,cufflink-46-white/gold,1,0
-cufflink,,,46,,White/Silver,,,cufflink-46-white/silver,1,0
+301,301,Size,46,Color,Black,,,301-46-black,1,0
+301,301,Size,46,,Chocolate,,,301-46-chocolate,1,0
+301,301,Size,46,,Dark Grey,,,301-46-darkgrey,1,0
+301,301,Size,46,,Navy,,,301-46-navy,1,0
+301,301,Size,46,,Wine,,,301-46-wine,1,0
+302,302,Size,46,Color,Black,,,302-46-black,1,0
+302,302,Size,46,,Beige,,,302-46-beige,1,0
+302,302,Size,46,,Brown,,,302-46-brown,1,0
+302,302,Size,46,,Burgundy,,,302-46-burgundy,1,0
+302,302,Size,46,,Cognac,,,302-46-cognac,1,0
+302,302,Size,46,,Olive,,,302-46-olive,1,0
+302,302,Size,46,,Red,,,302-46-red,1,0
+303,303,Size,46,Color,Black,,,303-46-black,1,0
+303,303,Size,46,,Chocolate,,,303-46-chocolate,1,0
+304,304,Size,46,Color,Black,,,304-46-black,1,0
+304,304,Size,46,,Brown,,,304-46-brown,1,0
+304,304,Size,46,,Olive,,,304-46-olive,1,0
+304,304,Size,46,,Navy,,,304-46-navy,1,0
+304,304,Size,46,,White,,,304-46-white,1,0
+304,304,Size,46,,Wine,,,304-46-wine,1,0
+305,305,Size,46,Color,Bordo,,,305-46-bordo,1,0
+305,305,Size,46,,Red,,,305-46-red,1,0
+306,306,Size,46,Color,Blue,,,306-46-blue,0,0
+306,306,Size,46,,Bordo,,,306-46-bordo,0,0
+306,306,Size,46,,Green,,,306-46-green,0,0
+306,306,Size,46,,Red,,,306-46-red,0,0
+306,306,Size,46,,Rust,,,306-46-rust,0,0
