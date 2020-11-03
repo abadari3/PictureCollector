@@ -1,6 +1,5 @@
 Handle,Title,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,SKU,Online Brite Creations,Retail Brite Creations
 mezlantibero,Tibero,Size,8,Color,Burgundy,,,mezlantibero-burgundy-8,1,0
-mezlantibero,Tibero,Size,8.5,Color,Burgundy,,,mezlantibero-burgundy-8.5,1,0
 mezlantibero,Tibero,Size,9,Color,Burgundy,,,mezlantibero-burgundy-9,1,0
 mezlantibero,Tibero,Size,9.5,Color,Burgundy,,,mezlantibero-burgundy-9.5,1,0
 mezlantibero,Tibero,Size,10,Color,Burgundy,,,mezlantibero-burgundy-10,1,0
@@ -34,7 +33,6 @@ mezlanphillipe,Phillipe,Size,14,,Black,,,mezlanphillipe-black-14,1,0
 mezlanphillipe,Phillipe,Size,14,,Cognac,,,mezlanphillipe-cognac-14,1,0
 mezlanpaden,Paden,Size,8,Color,Black,,,mezlanpaden-black-8,1,0
 mezlanpaden,Paden,Size,8.5,Color,Black,,,mezlanpaden-black-8.5,1,0
-mezlanpaden,Paden,Size,9,Color,Black,,,mezlanpaden-black-9,1,0
 mezlanpaden,Paden,Size,9.5,Color,Black,,,mezlanpaden-black-9.5,1,0
 mezlanpaden,Paden,Size,10,Color,Black,,,mezlanpaden-black-10,1,0
 mezlanpaden,Paden,Size,10.5,Color,Black,,,mezlanpaden-black-10.5,1,0
@@ -69,7 +67,6 @@ mezlangavino,Gavino,Size,9,Color,Cognac,,,mezlangavino-cognac-9,1,0
 mezlangavino,Gavino,Size,9.5,Color,Cognac,,,mezlangavino-cognac-9.5,1,0
 mezlangavino,Gavino,Size,10,Color,Cognac,,,mezlangavino-cognac-10,1,0
 mezlangavino,Gavino,Size,10.5,Color,Cognac,,,mezlangavino-cognac-10.5,1,0
-mezlangavino,Gavino,Size,11,Color,Cognac,,,mezlangavino-cognac-11,1,0
 mezlangavino,Gavino,Size,11.5,Color,Cognac,,,mezlangavino-cognac-11.5,1,0
 mezlangavino,Gavino,Size,15,Color,Cognac,,,mezlangavino-cognac-15,1,0
 mezlangalina,Galina,Size,8.5,Color,Burgundy,,,mezlangalina-burgundy-8.5,1,0
@@ -90,6 +87,7 @@ mezlangalina,Galina,Size,12,,Burgundy,,,mezlangalina-burgundy-12,1,0
 mezlangalina,Galina,Size,12,,Tan,,,mezlangalina-tan-12,1,0
 mezlangalina,Galina,Size,13,,Burgundy,,,mezlangalina-burgundy-13,1,0
 mezlangalina,Galina,Size,13,,Tan,,,mezlangalina-tan-13,1,0
+mezlanmeier,Meier,Size,9.5,Color,Black,,,mezlanmeier-black-9.5,1,0
 mezlannewell,Newell,Size,9,Color,Black,,,mezlannewell-black-9,1,0
 mezlannewell,Newell,Size,9.5,Color,Black,,,mezlannewell-black-9.5,1,0
 mezlannewell,Newell,Size,10,Color,Black,,,mezlannewell-black-10,1,0
@@ -99,7 +97,6 @@ mezlannewell,Newell,Size,11.5,Color,Black,,,mezlannewell-black-11.5,1,0
 mezlannewell,Newell,Size,12,Color,Black,,,mezlannewell-black-12,1,0
 mezlannewell,Newell,Size,13,Color,Black,,,mezlannewell-black-13,1,0
 mezlannewell,Newell,Size,14,Color,Black,,,mezlannewell-black-14,1,0
-mezlannewell,Newell,Size,15,Color,Black,,,mezlannewell-black-15,1,0
 mezlanenterprise,Enterprise,Size,8,Color,Black,,,mezlanenterprise-black-8,1,0
 mezlanenterprise,Enterprise,Size,8,,Blue,,,mezlanenterprise-blue-8,1,0
 mezlanenterprise,Enterprise,Size,8,,Brown,,,mezlanenterprise-brown-8,1,0
@@ -380,26 +377,37 @@ mezlanginza,Ginza,Size,13,Color,Cognac,,,mezlanginza-cognac-13,1,0
 mezlanginza,Ginza,Size,14,Color,Cognac,,,mezlanginza-cognac-14,1,0
 mezlanmontes,Montes,Size,8,Color,Grey/Burgundy,,,mezlanmontes-grey/burgundy-8,1,0
 mezlanmontes,Montes,Size,8,,Taupe/Cognac,,,mezlanmontes-taupe/cognac-8,1,0
+mezlanmontes,Montes,Size,8,,Cognac/Blue,,,mezlanmontes-cognac/blue-8,1,0
 mezlanmontes,Montes,Size,8.5,,Grey/Burgundy,,,mezlanmontes-grey/burgundy-8.5,1,0
 mezlanmontes,Montes,Size,8.5,,Taupe/Cognac,,,mezlanmontes-taupe/cognac-8.5,1,0
+mezlanmontes,Montes,Size,8.5,,Cognac/Blue,,,mezlanmontes-cognac/blue-8.5,1,0
 mezlanmontes,Montes,Size,9,,Grey/Burgundy,,,mezlanmontes-grey/burgundy-9,1,0
 mezlanmontes,Montes,Size,9,,Taupe/Cognac,,,mezlanmontes-taupe/cognac-9,1,0
+mezlanmontes,Montes,Size,9,,Cognac/Blue,,,mezlanmontes-cognac/blue-9,1,0
 mezlanmontes,Montes,Size,9.5,,Grey/Burgundy,,,mezlanmontes-grey/burgundy-9.5,1,0
 mezlanmontes,Montes,Size,9.5,,Taupe/Cognac,,,mezlanmontes-taupe/cognac-9.5,1,0
+mezlanmontes,Montes,Size,9.5,,Cognac/Blue,,,mezlanmontes-cognac/blue-9.5,1,0
 mezlanmontes,Montes,Size,10,,Grey/Burgundy,,,mezlanmontes-grey/burgundy-10,1,0
 mezlanmontes,Montes,Size,10,,Taupe/Cognac,,,mezlanmontes-taupe/cognac-10,1,0
+mezlanmontes,Montes,Size,10,,Cognac/Blue,,,mezlanmontes-cognac/blue-10,1,0
 mezlanmontes,Montes,Size,10.5,,Grey/Burgundy,,,mezlanmontes-grey/burgundy-10.5,1,0
 mezlanmontes,Montes,Size,10.5,,Taupe/Cognac,,,mezlanmontes-taupe/cognac-10.5,1,0
+mezlanmontes,Montes,Size,10.5,,Cognac/Blue,,,mezlanmontes-cognac/blue-10.5,1,0
 mezlanmontes,Montes,Size,11,,Grey/Burgundy,,,mezlanmontes-grey/burgundy-11,1,0
 mezlanmontes,Montes,Size,11,,Taupe/Cognac,,,mezlanmontes-taupe/cognac-11,1,0
+mezlanmontes,Montes,Size,11,,Cognac/Blue,,,mezlanmontes-cognac/blue-11,1,0
 mezlanmontes,Montes,Size,11.5,,Grey/Burgundy,,,mezlanmontes-grey/burgundy-11.5,1,0
 mezlanmontes,Montes,Size,11.5,,Taupe/Cognac,,,mezlanmontes-taupe/cognac-11.5,1,0
+mezlanmontes,Montes,Size,11.5,,Cognac/Blue,,,mezlanmontes-cognac/blue-11.5,1,0
 mezlanmontes,Montes,Size,12,,Grey/Burgundy,,,mezlanmontes-grey/burgundy-12,1,0
 mezlanmontes,Montes,Size,12,,Taupe/Cognac,,,mezlanmontes-taupe/cognac-12,1,0
+mezlanmontes,Montes,Size,12,,Cognac/Blue,,,mezlanmontes-cognac/blue-12,1,0
 mezlanmontes,Montes,Size,13,,Grey/Burgundy,,,mezlanmontes-grey/burgundy-13,1,0
 mezlanmontes,Montes,Size,13,,Taupe/Cognac,,,mezlanmontes-taupe/cognac-13,1,0
+mezlanmontes,Montes,Size,13,,Cognac/Blue,,,mezlanmontes-cognac/blue-13,1,0
 mezlanmontes,Montes,Size,14,,Grey/Burgundy,,,mezlanmontes-grey/burgundy-14,1,0
 mezlanmontes,Montes,Size,14,,Taupe/Cognac,,,mezlanmontes-taupe/cognac-14,1,0
+mezlanmontes,Montes,Size,14,,Cognac/Blue,,,mezlanmontes-cognac/blue-14,1,0
 mezlansalem,Salem,Size,8,Color,Black,,,mezlansalem-black-8,1,0
 mezlansalem,Salem,Size,8.5,Color,Black,,,mezlansalem-black-8.5,1,0
 mezlansalem,Salem,Size,9,Color,Black,,,mezlansalem-black-9,1,0
@@ -521,17 +529,17 @@ mezlanbora,Bora,Size,10.5,Color,Tan/Blue,,,mezlanbora-tan/blue-10.5,1,0
 mezlanbora,Bora,Size,11,Color,Tan/Blue,,,mezlanbora-tan/blue-11,1,0
 mezlanbora,Bora,Size,14,Color,Tan/Blue,,,mezlanbora-tan/blue-14,1,0
 mezlanbrahman,Brahman,Size,8,Color,Honey/Cognac,,,mezlanbrahman-honey/cognac-8,1,0
-mezlanbrahman,Brahman,Size,8,,Mediumblue/Navy,,,mezlanbrahman-mediumblue/navy-8,1,0
+mezlanbrahman,Brahman,Size,8,,Medium Blue/Navy,,,mezlanbrahman-medium blue/navy-8,1,0
 mezlanbrahman,Brahman,Size,9,,Honey/Cognac,,,mezlanbrahman-honey/cognac-9,1,0
-mezlanbrahman,Brahman,Size,9,,Mediumblue/Navy,,,mezlanbrahman-mediumblue/navy-9,1,0
+mezlanbrahman,Brahman,Size,9,,Medium Blue/Navy,,,mezlanbrahman-medium blue/navy-9,1,0
 mezlanbrahman,Brahman,Size,9.5,,Honey/Cognac,,,mezlanbrahman-honey/cognac-9.5,1,0
-mezlanbrahman,Brahman,Size,9.5,,Mediumblue/Navy,,,mezlanbrahman-mediumblue/navy-9.5,1,0
+mezlanbrahman,Brahman,Size,9.5,,Medium Blue/Navy,,,mezlanbrahman-medium blue/navy-9.5,1,0
 mezlanbrahman,Brahman,Size,10,,Honey/Cognac,,,mezlanbrahman-honey/cognac-10,1,0
-mezlanbrahman,Brahman,Size,10,,Mediumblue/Navy,,,mezlanbrahman-mediumblue/navy-10,1,0
+mezlanbrahman,Brahman,Size,10,,Medium Blue/Navy,,,mezlanbrahman-medium blue/navy-10,1,0
 mezlanbrahman,Brahman,Size,10.5,,Honey/Cognac,,,mezlanbrahman-honey/cognac-10.5,1,0
-mezlanbrahman,Brahman,Size,10.5,,Mediumblue/Navy,,,mezlanbrahman-mediumblue/navy-10.5,1,0
+mezlanbrahman,Brahman,Size,10.5,,Medium Blue/Navy,,,mezlanbrahman-medium blue/navy-10.5,1,0
 mezlanbrahman,Brahman,Size,11,,Honey/Cognac,,,mezlanbrahman-honey/cognac-11,1,0
-mezlanbrahman,Brahman,Size,11,,Mediumblue/Navy,,,mezlanbrahman-mediumblue/navy-11,1,0
+mezlanbrahman,Brahman,Size,11,,Medium Blue/Navy,,,mezlanbrahman-medium blue/navy-11,1,0
 mezlanmarcello,Marcello,Size,8.5,Color,Blue,,,mezlanmarcello-blue-8.5,1,0
 mezlanmarcello,Marcello,Size,8.5,,Red,,,mezlanmarcello-red-8.5,1,0
 mezlanmarcello,Marcello,Size,9,,Blue,,,mezlanmarcello-blue-9,1,0
