@@ -9,7 +9,11 @@ def newProduct(rows):
     if len(rows) == 0:
         return None
     r = rows.pop(0)
-    handle = r['Handle']
+    handle = ''
+    try:
+    	handle = r['Handle']
+    except:
+    	handle = r['ï»¿Handle']
     title = r['Title']
     body = r['Body (HTML)']
     vendor = r['Vendor']
