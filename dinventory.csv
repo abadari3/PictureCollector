@@ -1,0 +1,110 @@
+﻿handle,color,40,40.5,41,41.5,42,42.5,43,43.5,44,44.5,45,46,47,48
+Alba,Antique Red,,,X,,X,,X,,X,,X,X,X,
+,Cognac,,,X,,X,,X,,X,,X,X,X,
+Amalfi,Black,,,X,X,X,,,,X,,X,X,,
+,Black/White,X,,X,,X,,X,,X,,X,,,
+,Burgundy,X,,X,,X,,X,,X,,X,X,,
+,Champagne,,,X,,X,,X,,X,,X,X,,
+,Green,,,X,,X,,X,X,X,,X,X,,
+,Navy,X,,X,X,X,X,X,X,X,X,X,X,X,
+,Red,,,X,,X,,X,,X,,X,X,,
+,Pink,,,X,,X,,X,,X,,X,X,,
+,White,,,X,,X,,X,,X,,X,X,,
+,White/Black,X,,X,X,X,,X,,X,,X,X,,
+Asti,Black Combo,,,X,,X,,X,,X,,X,X,X,
+,Blue Combo,,,X,,X,,X,,X,X,X,X,,
+,Bordo Combo,,,X,X,X,,X,X,,X,X,,,
+,Cognac Combo,,,X,,X,,X,,X,X,X,X,X,
+Cecina,Black,,,X,,X,,X,,X,,X,X,,
+,Chocolate,,,X,X,,,,,,X,,,,
+,Navy,,,X,,X,,,,X,X,X,X,X,
+Fano,Antique Red,,,X,X,,X,,X,,X,X,X,X,
+,Cognac,,,X,X,X,X,X,X,X,X,X,X,X,
+Fermo,Brown Combo,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Blue Combo,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Garda,Black,,,X,,X,X,X,,X,X,X,X,X,
+,Camel,,,X,,X,X,X,,X,X,X,X,X,
+Imola,Black,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Burgundy,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Cognac,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Green,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Navy,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Livorno,Black Combo,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Blue Combo,,,X,,X,,X,,X,,X,X,X,
+,Brown Combo,,,X,,X,,X,,X,,X,X,X,
+Lucca,Blue Combo,,,X,,X,,X,,X,X,X,X,X,
+,Brown Combo,,,X,,X,X,X,,,,X,,X,
+,Green Combo,,,X,,X,,X,,X,,X,,,
+Maratea,Black/Clear Crystals,,,X,,X,,X,,,,X,X,,
+,Black/Black Crystals,X,X,X,X,,,,,,,,X,,
+,Black/Red Crystals,X,X,X,X,X,,,,,,X,X,,
+Marini,Brown,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Cognac,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Navy,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Marino,Black/Grey,,,X,,X,X,X,X,X,,X,X,X,
+,Bordo/Bone,,,X,,X,,X,X,X,,X,X,X,
+,Cognac/Neutro,,,X,,X,,X,X,X,,X,X,X,
+,Green/Olive,,,,,X,,X,,X,,X,X,,
+Pesaro,Blue,,,X,,X,,X,,X,,X,X,,
+,Peach,,,X,,X,,,,X,,X,,,
+,Taupe,,,X,,X,,X,X,X,X,X,X,,
+,Yellow,,,X,,X,,X,,X,,X,,,
+Potenza,Blue Combo,,,X,,X,,,,X,,X,X,X,
+,Brown Combo,,,X,,X,,,,X,,X,X,X,
+,Pink Combo,,,X,,X,,X,,X,,X,X,X,
+Prato,Black,,,X,X,X,X,X,X,X,,X,X,,
+,Chocolate,,,,X,X,,,,X,,X,X,,
+Ravello,Black,,,,,X,X,,,,X,,,,
+,Brandy,,,X,,,,,,,,X,,,
+,Grey,,,,,,,,,,,X,,,
+Rieti,Cognac/Brown,,,X,,X,X,X,X,X,X,X,X,,
+,Lavender/Purple,,,X,,X,,X,,X,,X,X,,
+,L. Blue/Navy,,,X,X,X,X,X,,,X,,,,
+,Pink/Fuscia,,,,,,,,,,,,,X,
+Roma,Brandy/L. Blue,,,X,,X,,X,,X,,X,X,X,
+,Camel/Neutro,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Navy/Red,,,X,,X,,X,,X,,X,X,X,
+Rovigo,Cognac,,,X,,X,,X,,X,,X,X,X,
+,Grey,,,X,,X,,X,,X,,X,X,X,
+Savona,Cognac/Bone,,,X,X,X,X,X,X,X,X,X,X,X,
+,Bordo/Bone,,,X,,X,,X,,X,,X,X,,
+Scala,Black/Silver,X,,X,X,X,X,X,X,X,X,X,X,X,
+,Black/Gold,X,X,X,X,X,X,X,X,X,X,X,X,X,
+,Blue/Silver,X,X,X,X,X,X,X,X,X,X,X,X,X,
+,Burgundy/Gold,X,X,X,X,X,X,X,X,X,X,X,X,X,
+,Red/Gold,X,X,X,X,X,X,X,X,X,X,X,X,,
+,White/Gold,X,X,X,X,X,X,X,X,X,X,X,X,X,
+Siena,Antique Red,,,X,,,,X,,X,,,,,
+,Black,,,X,,,,,,,,X,X,,
+,Chocolate,X,,X,X,,,X,,X,,X,X,,
+,Grey,,,,,,X,,,,,X,X,,
+,Navy,,,X,X,,,,,X,,X,X,,
+,Olive,,,X,,X,,X,X,X,,,X,,
+Sora,Black,,,X,,X,,X,,X,,X,,,
+,Grey,,,X,,X,,X,,X,,X,X,,
+,Jeans,,,X,X,,,,,,,,X,,
+,Taupe,,,X,,X,,X,,X,,X,X,,
+Teramo,Brown/Cognac,,,X,,X,,X,X,X,X,X,X,X,
+,Cognac/L. Blue,,,X,,X,,X,X,X,X,X,X,X,
+Terni,Black/Grey,,,X,,X,,X,,X,,X,X,,
+,Brown/Cognac,,,X,,X,,X,,X,,X,X,X,
+Tivoli,Cognac/Chocolate,,,X,X,X,,X,,X,,X,X,,
+,L. Blue/Blue,,,X,,X,,X,,X,,,X,,
+Torino,Black Combo,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Pink Combo,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Purple Combo,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Yellow Combo,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Treviso,Black,,,X,,X,X,X,X,X,X,X,X,X,
+,Cognac,,,X,,X,X,X,X,X,X,X,X,X,
+,Olive,,,X,,X,X,X,X,X,X,X,X,X,
+Trieste,Black,,,X,,X,,X,,X,,X,X,X,
+,Brown,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Blue,,,X,,X,,X,,X,,X,X,X,
+Udine,Black,,,,,X,X,X,,,,X,,,
+,Cognac,,,,,,X,X,X,,,,X,,
+Varese,Black,,,X,,X,,X,,X,,X,X,X,
+,Olive,,,X,,X,,X,,X,,X,X,X,
+Varsi,Antique Red,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Cognac,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Dark Grey,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,Navy,X,X,X,X,X,X,X,X,X,X,X,X,X,X
