@@ -280,7 +280,7 @@ def getInventory(prod):
             'Title': prod.title, 
             'Option1 Name': 'Size', 
             'Option1 Value':'', 
-            'Option2 Name':'', 
+            'Option2 Name':'Color', 
             'Option2 Value':'', 
             'Option3 Name':'', 
             'Option3 Value':'', 
@@ -294,7 +294,7 @@ def getInventory(prod):
         rows[i]['SKU'] = prod.sku[i]
     for i in range(len(prod.sizes)):
         if len(prod.colors) > 1:
-            rows[0]['Option2 Name'] = 'Color'
+#             rows[i]['Option2 Name'] = 'Color'
             for j in range(len(prod.colors)):
                 rows[i*len(prod.colors)+j]['Option1 Value'] = prod.sizes[i]
                 rows[i*len(prod.colors)+j]['Option2 Value'], b  = prod.colors[j]
@@ -410,131 +410,3 @@ def make(row):
     # print(sku)
     return product(handle=handle, sku=sku, title=title, body=body, vendor=vendor, type=type, tags=tags, sizes=sizes, colors=colors, price=price, oldprice=price, images=images)
     # return row
-
-def mauri():
-    products = []
-    with open('mauri.csv') as csvfile:
-        reader = csv.DictReader(csvfile)
-        # print(reader.fieldnames)
-        for row in reader:
-            products.append(make(row))
-
-    productstocsv(products)
-    productstoinventory(products)
-
-    images = []
-    for p in products:
-        images.extend([p.images[i][0] for i in range(len(p.images))])
-    for i in images:
-        result = requests.get(i)
-        if result.status_code != 200:
-            print(i)
-        else:
-            print('good')
-
-
-# mauri()
-
-# prod = csvtoproducts('products.csv')
-# colors = {}
-# for p in prod:
-#     for a, b in p.colors:
-#         # print(b)
-#         title = a.lower().replace(' ', '-').replace('/', '-').replace('--', '-').replace('--', '-').replace('--', '-')
-#         if title not in colors.keys():
-#             colors[title] = [b]
-#         else:
-#             colors[title].append(b)
-
-
-# # print(colors)
-# from swatch import *
-# cols = []
-# for k in colors.keys():
-#     cols.append(k)
-#     for i in colors[k]:
-#         i = i.replace(' ', '')
-#         try:
-#             getswatch(k, i)
-#         except:
-#             print(k, i)
-
-
-# products = csvtoproducts('products_export_1.csv')
-# valid = []
-# for p in products:
-#     if p.title in ['Bubble', 'Carnage', 'Mustang', 'Player', 'Hawk', 'Floss', 'Jackpot', 'Everglades', 'Casino', 'Apocalypse', 'Hitman', 'Blackjack', 'Flash', 'Rambo', 'Pathfinder', 'Professor', 'Esquire', 'Harlem', 'Vegas', 'Priest', 'Piave', 'Whispers', 'Swag', 'Duke', 'Elegance', 'Steamboat', 'Matrix', 'Predator', 'Opulent', 'High-speed', 'Finesse', 'Stephen', 'Corleone', 'Regal', 'Royalty', 'Boulevard', 'Earth', 'Godfather', 'Cardinal', 'Double Dragon', 'Jurassic', 'Cheetah', 'Black Skin Dress Shoe', 'Brown Tone Dress Boot', 'Prague', 'Belt & Buckle', 'Arno', 'Oglio', 'Symphony', 'Trendsetter', 'Sunset', 'Tide', 'Scenic', 'Luxor', 'Sarasota', 'Romano', 'Cathedral', 'Sandstone']:
-#         valid.append(p)
-# productstocsv(products)
-
-# prod = csvtoproducts('nocolors.csv')
-# colors = []
-# for p in prod:
-#     cols = []
-#     for t in p.tags:
-#         if 'color' not in t:
-#             if t != '':
-#                 cols.append(t)
-#     for c, i in p.colors:
-#         cols.append('color:' + c)
-#     p.tags = cols
-# productstocsv(prod)
-
-
-# prods = csvtoproducts('products_export_1.csv')
-# for p in prods:
-#     clrs = p.colors
-#     colors = []
-#     imgvariants = []
-#     images = [i for i, a in p.images]
-#     for c, i in clrs:
-#         colors.append(c)
-#         imgvariants.append(i)
-#     for ci in range(len(colors)):
-#         c = colors[ci]
-#         for i in images:
-#             if c.replace('/','') in i:
-#                 imgvariants[ci] = i
-
-#     fin = []
-#     for j in range(len(colors)):
-#         fin.append((colors[j], imgvariants[j]))
-#     p.colors = fin
-
-# productstocsv(prods)
-    # break
-
-# products = csvtoproducts("products_export_1.csv")
-# for p in products:
-#     v = p.vendor
-#     h = p.handle
-#     sz = p.sizes
-#     c = p.colors
-#     sku = p.sku
-#     if(p.vendor == "Tiglio"):
-#         for s in range(len(sku)):
-#             sku[s] = "TIG-"
-#             sku[s] += p.title.upper().replace(' ', '').replace('-', '')
-#             sku[s] += "-" + sz[(int)(s*len(sz)/len(sku))].upper().replace('/', '-')
-#             if len(c) != 1:
-#                 sku[s] += "-" + c[(int)(s%len(c))][0].upper().replace(' ', '-').replace('/', '-')
-            
-#             sku[s] = sku[s].replace('.', '').replace(',', '').replace('\'', '').replace('\"', '').replace('&', '').replace('--', '-')
-#         # print(p.sku)
-#     else : 
-#     # for s in sku:
-#     #     print(s)
-#         style = ""
-#         body = p.body.split('\n')
-#         for b in body:
-#             if("Style" in b):
-#                 style = b
-#         if("Style" in style):
-#             style = style[style.index("Style"):]
-#             style = style[style.index("M"):]
-#             style = style[:style.index("<")]
-#         for s in range(len(sku)):
-#             sku[s] = "WF-" + style + "-" + p.sizes[s]
-#     # print()
-# productstocsv(products)
-

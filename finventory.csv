@@ -1,103 +1,76 @@
-﻿handle,color,41,41.5,42,42.5,43,43.5,44,44.5,45,46,47,48
-3044,Avana,X,,,,,,,,,X,,
-,Black,X,,X,,X,,X,,,,,
-,Red,X,X,X,X,X,X,X,X,X,X,X,X
-Albert,Cognac,X,X,X,X,X,X,X,X,X,X,X,
-,Taupe,X,X,X,X,X,X,X,X,X,X,X,
-Alex,Black,X,X,X,X,X,X,X,X,X,X,X,X
-,Chocolate,X,X,X,X,X,X,X,X,X,X,X,X
-,Blue,X,X,X,X,X,X,X,X,X,X,X,X
-,Bordo,X,X,X,X,X,X,X,X,X,X,X,X
-,Green,X,X,X,X,X,X,X,X,X,X,X,X
-,Red,X,X,X,X,X,X,X,X,X,X,X,X
-,Rust,X,X,X,X,X,X,X,X,X,X,X,X
-,White,X,X,X,X,X,X,X,X,X,X,X,X
-Arthur,Black/Bone,X,,X,,X,,X,,X,X,,
-,Chocolate/Bone,X,,,,,,,,X,,,
-,Grey/Black,X,X,X,X,X,X,X,X,X,X,X,X
-,Navy/Red,X,,X,,X,,,,,,,
-Charlie,Dark Brown/Bone,X,X,X,X,,,X,X,X,X,X,
-,Dark Grey/Light Grey,X,X,X,,,,X,,,,X,
-Edward,Antique Red,X,,X,,X,,X,X,X,X,X,
-,Blue,X,,X,,X,,X,X,X,X,X,
-,Yellow,X,,,,X,,X,X,X,X,X,
-Elliot,Taupe/Chocolate,X,,X,,X,,X,X,X,X,X,
-Ethan,Black,X,,X,,X,,X,,X,X,,
-,Cognac,X,X,X,X,X,X,X,,X,X,X,
-,Purple,X,X,,X,X,X,X,,X,X,,
-Finley,Black,X,X,X,X,X,X,X,X,X,X,X,X
-,Blue,X,X,X,X,X,X,X,X,X,X,X,X
-,Burgundy,X,X,X,X,X,X,X,X,X,X,X,X
-,Cognac,X,X,X,X,X,X,X,X,X,X,X,X
-,Pink,X,X,X,X,X,X,X,X,X,X,X,X
-,White,X,X,X,X,X,X,X,X,X,X,X,X
-George,Black,X,,,,,,X,,,,,
-,Burgundy,X,,X,,X,,X,,X,,,
-Harry,Black,X,X,,,X,X,X,X,X,X,,
-,Burgundy,X,X,,X,X,X,X,X,X,X,,
-Hugo,Black,X,,,,,,X,,,X,,
-,Cognac,X,X,X,X,X,X,X,X,X,X,X,X
-Jack,Blue,X,,X,,,,,,,,,
-,Chocolate,,,,,,,,,,,,
-,Red,X,,X,,,,X,,,,,
-Jacob,Black,,X,X,X,X,,X,,X,X,,
-,Navy,,,X,,X,X,X,X,X,X,,
-Jake,Black,X,X,X,X,X,X,X,X,X,X,X,X
-,Chocolate,X,X,X,X,X,X,X,X,X,X,X,X
-,Navy,X,X,X,X,X,X,X,X,X,X,X,X
-James,Black,X,,X,,,,X,X,,,,
-,Brown,X,,,,X,,,,,X,,
-,Cognac,,,,X,X,X,X,X,X,X,,
-,Light Blue,,,X,,,,,,X,,,
-,Pink,X,,X,,X,,X,,X,X,,
-Logan,Black,X,X,X,X,X,X,X,X,X,X,X,X
-Lucas,Black Combo,X,X,X,X,X,X,X,X,X,X,X,
-,Blue Combo,X,X,X,X,X,X,X,X,X,X,X,
-,Brown Combo,X,X,X,X,X,X,X,X,X,X,X,
-Miles,Black,X,,X,,X,,X,,X,X,,
-,Burgundy,,,X,X,,,,,,,,
-Oliver,Black,X,,,X,X,X,X,,,,,
-Oscar,Black/Off White,,,,,,X,X,,,X,,
-,Brandy/Cognac,,X,,,,,,X,,,X,
-Sam,Red/Navy/White Combo,X,X,X,X,X,X,X,X,X,X,X,X
-,Red/Green/White Combo,X,X,X,X,X,X,X,X,X,X,X,X
-Samuel,Red/Green/White Combo,X,X,X,X,X,X,X,X,X,X,X,X
-Toby,Red/Green/White Combo,X,X,X,X,X,X,X,X,X,X,X,X
-Trevor,Black,X,,X,,X,X,X,X,X,X,X,
-,Taupe/Chocolate,X,X,X,,X,,X,X,,X,X,
-Tyler,Antique Red,X,X,X,X,X,X,X,X,X,X,X,X
-,Black,X,X,X,X,X,X,X,X,X,X,X,X
-,Cognac,X,X,X,X,X,X,X,X,X,X,X,X
-,Navy,X,X,X,X,X,X,X,X,X,X,X,X
-,Olive,X,X,X,X,X,X,X,X,X,X,X,X
-,Pink,X,X,X,X,X,X,X,X,X,X,X,X
-Zach,Black,X,X,X,X,X,X,X,X,X,X,X,X
-,Pink,X,X,X,X,X,X,X,X,X,X,X,X
-,Navy,X,X,X,X,X,X,X,X,X,X,X,X
-301,Black,,,,,,,,,,X,,
-,Chocolate,,,,,,,,,,X,,
-,Dark Grey,,,,,,,,,,X,,
-,Navy,,,,,,,,,,X,,
-,Wine,,,,,,,,,,X,,
-302,Black,,,,,,,,,,X,,
-,Beige,,,,,,,,,,X,,
-,Brown,,,,,,,,,,X,,
-,Burgundy,,,,,,,,,,X,,
-,Cognac,,,,,,,,,,X,,
-,Olive,,,,,,,,,,X,,
-,Red,,,,,,,,,,X,,
-303,Black,,,,,,,,,,X,,
-,Chocolate,,,,,,,,,,X,,
-304,Black,,,,,,,,,,X,,
-,Brown,,,,,,,,,,X,,
-,Olive,,,,,,,,,,X,,
-,Navy,,,,,,,,,,X,,
-,White,,,,,,,,,,X,,
-,Wine,,,,,,,,,,X,,
-305,Bordo,,,,,,,,,,X,,
-,Red,,,,,,,,,,X,,
-306,Blue,,,,,,,,,,,,
-,Bordo,,,,,,,,,,,,
-,Green,,,,,,,,,,,,
-,Red,,,,,,,,,,,,
-,Rust,,,,,,,,,,,,
+﻿handle,color,41,41.5,42,42.5,43,43.5,44,44.5,45,46,47
+3044,Avana,X,,,,,,,,,X,
+,Black,X,,X,,X,,X,,,,
+,Red,X,X,X,X,X,X,X,X,X,X,X
+Albert,Cognac,X,X,X,X,X,X,X,X,X,X,X
+,Taupe,X,X,X,X,X,X,X,X,X,X,X
+Alex,Black,X,X,X,X,X,X,X,X,X,X,X
+,Chocolate,X,X,X,X,X,X,X,X,X,X,X
+,Blue,X,X,X,X,X,X,X,X,X,X,X
+,Bordo,X,X,X,X,X,X,X,X,X,X,X
+,Green,X,X,X,X,X,X,X,X,X,X,X
+,Red,X,X,X,X,X,X,X,X,X,X,X
+,Rust,X,X,X,X,X,X,X,X,X,X,X
+,White,X,X,X,X,X,X,X,X,X,X,X
+Arthur,Black/Bone,X,,X,,X,,X,,X,X,
+,Chocolate/Bone,X,,,,,,,,X,,
+,Grey/Black,X,X,X,X,X,X,X,X,X,X,X
+,Navy/Red,X,,X,,X,,,,,,
+Charlie,Dark Brown/Bone,X,X,X,X,,,X,X,X,X,X
+,Dark Grey/Light Grey,X,X,X,,,,X,,,,X
+Edward,Antique Red,X,,X,,X,,X,X,X,X,X
+,Blue,X,,X,,X,,X,X,X,X,X
+,Yellow,X,,,,X,,X,X,X,X,X
+Elliot,Taupe/Chocolate,X,,X,,X,,X,X,X,X,X
+Ethan,Black,X,,X,,X,,X,,X,X,
+,Cognac,X,X,X,X,X,X,X,,X,X,X
+,Purple,X,X,,X,X,X,X,,X,X,
+Finley,Black,X,X,X,X,X,X,X,X,X,X,X
+,Blue,X,X,X,X,X,X,X,X,X,X,X
+,Burgundy,X,X,X,X,X,X,X,X,X,X,X
+,Cognac,X,X,X,X,X,X,X,X,X,X,X
+,Pink,X,X,X,X,X,X,X,X,X,X,X
+,White,X,X,X,X,X,X,X,X,X,X,X
+George,Black,X,,,,,,X,,,,
+,Burgundy,X,,X,,X,,X,,X,,
+Harry,Black,X,X,,,X,X,X,X,X,X,
+,Burgundy,X,X,,X,X,X,X,X,X,X,
+Hugo,Black,X,,,,,,X,,,X,
+,Cognac,X,X,X,X,X,X,X,X,X,X,X
+Jack,Blue,X,,X,,,,,,,,
+,Chocolate,,,,,,,,,,,
+,Red,X,,X,,,,X,,,,
+Jacob,Black,,X,X,X,X,,X,,X,X,
+,Navy,,,X,,X,X,X,X,X,X,
+Jake,Black,X,X,X,X,X,X,X,X,X,X,X
+,Chocolate,X,X,X,X,X,X,X,X,X,X,X
+,Navy,X,X,X,X,X,X,X,X,X,X,X
+James,Black,X,,X,,,,X,X,,,
+,Brown,X,,,,X,,,,,X,
+,Cognac,,,,X,X,X,X,X,X,X,
+,Light Blue,,,X,,,,,,X,,
+,Pink,X,,X,,X,,X,,X,X,
+Logan,Black,X,X,X,X,X,X,X,X,X,X,X
+Lucas,Black Combo,X,X,X,X,X,X,X,X,X,X,X
+,Blue Combo,X,X,X,X,X,X,X,X,X,X,X
+,Brown Combo,X,X,X,X,X,X,X,X,X,X,X
+Miles,Black,X,,X,,X,,X,,X,X,
+,Burgundy,,,X,X,,,,,,,
+Oliver,Black,X,,,X,X,X,X,,,,
+Oscar,Black/Off White,,,,,,X,X,,,X,
+,Brandy/Cognac,,X,,,,,,X,,,X
+Sam,Red/Navy/White Combo,X,X,X,X,X,X,X,X,X,X,X
+,Red/Green/White Combo,X,X,X,X,X,X,X,X,X,X,X
+Samuel,Red/Green/White Combo,X,X,X,X,X,X,X,X,X,X,X
+Toby,Red/Green/White Combo,X,X,X,X,X,X,X,X,X,X,X
+Trevor,Black,X,,X,,X,X,X,X,X,X,X
+,Taupe/Chocolate,X,X,X,,X,,X,X,,X,X
+Tyler,Antique Red,X,X,X,X,X,X,X,X,X,X,X
+,Black,X,X,X,X,X,X,X,X,X,X,X
+,Cognac,X,X,X,X,X,X,X,X,X,X,X
+,Navy,X,X,X,X,X,X,X,X,X,X,X
+,Olive,X,X,X,X,X,X,X,X,X,X,X
+,Pink,X,X,X,X,X,X,X,X,X,X,X
+Zach,Black,X,X,X,X,X,X,X,X,X,X,X
+,Pink,X,X,X,X,X,X,X,X,X,X,X
+,Navy,X,X,X,X,X,X,X,X,X,X,X
