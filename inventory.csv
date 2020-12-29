@@ -1,37 +1,37 @@
 Handle,Title,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,SKU,Online Brite Creations,Retail Brite Creations
 3044,3044,Size,8,Color,Avana,,,3044-8-avana,1,0
 3044,3044,Size,8,Color,Black,,,3044-8-black,1,0
-3044,3044,Size,8,Color,Red,,,3044-8-red,1,0
+3044,3044,Size,8,Color,Red,,,3044-8-red,0,0
 3044,3044,Size,8.5,Color,Avana,,,3044-8.5-avana,0,0
 3044,3044,Size,8.5,Color,Black,,,3044-8.5-black,0,0
-3044,3044,Size,8.5,Color,Red,,,3044-8.5-red,1,0
+3044,3044,Size,8.5,Color,Red,,,3044-8.5-red,0,0
 3044,3044,Size,9,Color,Avana,,,3044-9-avana,0,0
 3044,3044,Size,9,Color,Black,,,3044-9-black,1,0
-3044,3044,Size,9,Color,Red,,,3044-9-red,1,0
+3044,3044,Size,9,Color,Red,,,3044-9-red,0,0
 3044,3044,Size,9.5,Color,Avana,,,3044-9.5-avana,0,0
 3044,3044,Size,9.5,Color,Black,,,3044-9.5-black,0,0
-3044,3044,Size,9.5,Color,Red,,,3044-9.5-red,1,0
+3044,3044,Size,9.5,Color,Red,,,3044-9.5-red,0,0
 3044,3044,Size,10,Color,Avana,,,3044-10-avana,0,0
 3044,3044,Size,10,Color,Black,,,3044-10-black,1,0
-3044,3044,Size,10,Color,Red,,,3044-10-red,1,0
+3044,3044,Size,10,Color,Red,,,3044-10-red,0,0
 3044,3044,Size,10.5,Color,Avana,,,3044-10.5-avana,0,0
 3044,3044,Size,10.5,Color,Black,,,3044-10.5-black,0,0
-3044,3044,Size,10.5,Color,Red,,,3044-10.5-red,1,0
+3044,3044,Size,10.5,Color,Red,,,3044-10.5-red,0,0
 3044,3044,Size,11,Color,Avana,,,3044-11-avana,0,0
 3044,3044,Size,11,Color,Black,,,3044-11-black,1,0
-3044,3044,Size,11,Color,Red,,,3044-11-red,1,0
+3044,3044,Size,11,Color,Red,,,3044-11-red,0,0
 3044,3044,Size,11.5,Color,Avana,,,3044-11.5-avana,0,0
 3044,3044,Size,11.5,Color,Black,,,3044-11.5-black,0,0
-3044,3044,Size,11.5,Color,Red,,,3044-11.5-red,1,0
+3044,3044,Size,11.5,Color,Red,,,3044-11.5-red,0,0
 3044,3044,Size,12,Color,Avana,,,3044-12-avana,0,0
 3044,3044,Size,12,Color,Black,,,3044-12-black,0,0
-3044,3044,Size,12,Color,Red,,,3044-12-red,1,0
+3044,3044,Size,12,Color,Red,,,3044-12-red,0,0
 3044,3044,Size,13,Color,Avana,,,3044-13-avana,1,0
 3044,3044,Size,13,Color,Black,,,3044-13-black,0,0
-3044,3044,Size,13,Color,Red,,,3044-13-red,1,0
+3044,3044,Size,13,Color,Red,,,3044-13-red,0,0
 3044,3044,Size,14,Color,Avana,,,3044-14-avana,0,0
 3044,3044,Size,14,Color,Black,,,3044-14-black,0,0
-3044,3044,Size,14,Color,Red,,,3044-14-red,1,0
+3044,3044,Size,14,Color,Red,,,3044-14-red,0,0
 albert,Albert,Size,8,Color,Cognac,,,albert-8-cognac,1,0
 albert,Albert,Size,8,Color,Taupe,,,albert-8-taupe,1,0
 albert,Albert,Size,8.5,Color,Cognac,,,albert-8.5-cognac,1,0
@@ -62,15 +62,15 @@ alex,Alex,Size,8,Color,Green,,,alex-8-green,1,0
 alex,Alex,Size,8,Color,Red,,,alex-8-red,1,0
 alex,Alex,Size,8,Color,Rust,,,alex-8-rust,1,0
 alex,Alex,Size,8,Color,White,,,alex-8-white,1,0
-alex,Alex,Size,8.5,Color,Black,,,alex-8.5-black,1,0
-alex,Alex,Size,8.5,Color,Chocolate,,,alex-8.5-chocolate,1,0
-alex,Alex,Size,8.5,Color,Blue,,,alex-8.5-blue,1,0
-alex,Alex,Size,8.5,Color,Bordo,,,alex-8.5-bordo,1,0
-alex,Alex,Size,8.5,Color,Green,,,alex-8.5-green,1,0
-alex,Alex,Size,8.5,Color,Red,,,alex-8.5-red,1,0
-alex,Alex,Size,8.5,Color,Rust,,,alex-8.5-rust,1,0
-alex,Alex,Size,8.5,Color,White,,,alex-8.5-white,1,0
-alex,Alex,Size,9,Color,Black,,,alex-9-black,1,0
+alex,Alex,Size,8.5,Color,Black,,,alex-8.5-black,0,0
+alex,Alex,Size,8.5,Color,Chocolate,,,alex-8.5-chocolate,0,0
+alex,Alex,Size,8.5,Color,Blue,,,alex-8.5-blue,0,0
+alex,Alex,Size,8.5,Color,Bordo,,,alex-8.5-bordo,0,0
+alex,Alex,Size,8.5,Color,Green,,,alex-8.5-green,0,0
+alex,Alex,Size,8.5,Color,Red,,,alex-8.5-red,0,0
+alex,Alex,Size,8.5,Color,Rust,,,alex-8.5-rust,0,0
+alex,Alex,Size,8.5,Color,White,,,alex-8.5-white,0,0
+alex,Alex,Size,9,Color,Black,,,alex-9-black,0,0
 alex,Alex,Size,9,Color,Chocolate,,,alex-9-chocolate,1,0
 alex,Alex,Size,9,Color,Blue,,,alex-9-blue,1,0
 alex,Alex,Size,9,Color,Bordo,,,alex-9-bordo,1,0
@@ -78,14 +78,14 @@ alex,Alex,Size,9,Color,Green,,,alex-9-green,1,0
 alex,Alex,Size,9,Color,Red,,,alex-9-red,1,0
 alex,Alex,Size,9,Color,Rust,,,alex-9-rust,1,0
 alex,Alex,Size,9,Color,White,,,alex-9-white,1,0
-alex,Alex,Size,9.5,Color,Black,,,alex-9.5-black,1,0
-alex,Alex,Size,9.5,Color,Chocolate,,,alex-9.5-chocolate,1,0
-alex,Alex,Size,9.5,Color,Blue,,,alex-9.5-blue,1,0
-alex,Alex,Size,9.5,Color,Bordo,,,alex-9.5-bordo,1,0
-alex,Alex,Size,9.5,Color,Green,,,alex-9.5-green,1,0
-alex,Alex,Size,9.5,Color,Red,,,alex-9.5-red,1,0
-alex,Alex,Size,9.5,Color,Rust,,,alex-9.5-rust,1,0
-alex,Alex,Size,9.5,Color,White,,,alex-9.5-white,1,0
+alex,Alex,Size,9.5,Color,Black,,,alex-9.5-black,0,0
+alex,Alex,Size,9.5,Color,Chocolate,,,alex-9.5-chocolate,0,0
+alex,Alex,Size,9.5,Color,Blue,,,alex-9.5-blue,0,0
+alex,Alex,Size,9.5,Color,Bordo,,,alex-9.5-bordo,0,0
+alex,Alex,Size,9.5,Color,Green,,,alex-9.5-green,0,0
+alex,Alex,Size,9.5,Color,Red,,,alex-9.5-red,0,0
+alex,Alex,Size,9.5,Color,Rust,,,alex-9.5-rust,0,0
+alex,Alex,Size,9.5,Color,White,,,alex-9.5-white,0,0
 alex,Alex,Size,10,Color,Black,,,alex-10-black,1,0
 alex,Alex,Size,10,Color,Chocolate,,,alex-10-chocolate,1,0
 alex,Alex,Size,10,Color,Blue,,,alex-10-blue,1,0
@@ -94,14 +94,14 @@ alex,Alex,Size,10,Color,Green,,,alex-10-green,1,0
 alex,Alex,Size,10,Color,Red,,,alex-10-red,1,0
 alex,Alex,Size,10,Color,Rust,,,alex-10-rust,1,0
 alex,Alex,Size,10,Color,White,,,alex-10-white,1,0
-alex,Alex,Size,10.5,Color,Black,,,alex-10.5-black,1,0
-alex,Alex,Size,10.5,Color,Chocolate,,,alex-10.5-chocolate,1,0
-alex,Alex,Size,10.5,Color,Blue,,,alex-10.5-blue,1,0
-alex,Alex,Size,10.5,Color,Bordo,,,alex-10.5-bordo,1,0
-alex,Alex,Size,10.5,Color,Green,,,alex-10.5-green,1,0
-alex,Alex,Size,10.5,Color,Red,,,alex-10.5-red,1,0
-alex,Alex,Size,10.5,Color,Rust,,,alex-10.5-rust,1,0
-alex,Alex,Size,10.5,Color,White,,,alex-10.5-white,1,0
+alex,Alex,Size,10.5,Color,Black,,,alex-10.5-black,0,0
+alex,Alex,Size,10.5,Color,Chocolate,,,alex-10.5-chocolate,0,0
+alex,Alex,Size,10.5,Color,Blue,,,alex-10.5-blue,0,0
+alex,Alex,Size,10.5,Color,Bordo,,,alex-10.5-bordo,0,0
+alex,Alex,Size,10.5,Color,Green,,,alex-10.5-green,0,0
+alex,Alex,Size,10.5,Color,Red,,,alex-10.5-red,0,0
+alex,Alex,Size,10.5,Color,Rust,,,alex-10.5-rust,0,0
+alex,Alex,Size,10.5,Color,White,,,alex-10.5-white,0,0
 alex,Alex,Size,11,Color,Black,,,alex-11-black,1,0
 alex,Alex,Size,11,Color,Chocolate,,,alex-11-chocolate,1,0
 alex,Alex,Size,11,Color,Blue,,,alex-11-blue,1,0
@@ -110,14 +110,14 @@ alex,Alex,Size,11,Color,Green,,,alex-11-green,1,0
 alex,Alex,Size,11,Color,Red,,,alex-11-red,1,0
 alex,Alex,Size,11,Color,Rust,,,alex-11-rust,1,0
 alex,Alex,Size,11,Color,White,,,alex-11-white,1,0
-alex,Alex,Size,11.5,Color,Black,,,alex-11.5-black,1,0
-alex,Alex,Size,11.5,Color,Chocolate,,,alex-11.5-chocolate,1,0
-alex,Alex,Size,11.5,Color,Blue,,,alex-11.5-blue,1,0
-alex,Alex,Size,11.5,Color,Bordo,,,alex-11.5-bordo,1,0
-alex,Alex,Size,11.5,Color,Green,,,alex-11.5-green,1,0
-alex,Alex,Size,11.5,Color,Red,,,alex-11.5-red,1,0
-alex,Alex,Size,11.5,Color,Rust,,,alex-11.5-rust,1,0
-alex,Alex,Size,11.5,Color,White,,,alex-11.5-white,1,0
+alex,Alex,Size,11.5,Color,Black,,,alex-11.5-black,0,0
+alex,Alex,Size,11.5,Color,Chocolate,,,alex-11.5-chocolate,0,0
+alex,Alex,Size,11.5,Color,Blue,,,alex-11.5-blue,0,0
+alex,Alex,Size,11.5,Color,Bordo,,,alex-11.5-bordo,0,0
+alex,Alex,Size,11.5,Color,Green,,,alex-11.5-green,0,0
+alex,Alex,Size,11.5,Color,Red,,,alex-11.5-red,0,0
+alex,Alex,Size,11.5,Color,Rust,,,alex-11.5-rust,0,0
+alex,Alex,Size,11.5,Color,White,,,alex-11.5-white,0,0
 alex,Alex,Size,12,Color,Black,,,alex-12-black,1,0
 alex,Alex,Size,12,Color,Chocolate,,,alex-12-chocolate,1,0
 alex,Alex,Size,12,Color,Blue,,,alex-12-blue,1,0
@@ -127,7 +127,7 @@ alex,Alex,Size,12,Color,Red,,,alex-12-red,1,0
 alex,Alex,Size,12,Color,Rust,,,alex-12-rust,1,0
 alex,Alex,Size,12,Color,White,,,alex-12-white,1,0
 alex,Alex,Size,13,Color,Black,,,alex-13-black,1,0
-alex,Alex,Size,13,Color,Chocolate,,,alex-13-chocolate,1,0
+alex,Alex,Size,13,Color,Chocolate,,,alex-13-chocolate,0,0
 alex,Alex,Size,13,Color,Blue,,,alex-13-blue,1,0
 alex,Alex,Size,13,Color,Bordo,,,alex-13-bordo,1,0
 alex,Alex,Size,13,Color,Green,,,alex-13-green,1,0
@@ -144,55 +144,55 @@ alex,Alex,Size,14,Color,Rust,,,alex-14-rust,1,0
 alex,Alex,Size,14,Color,White,,,alex-14-white,1,0
 arthur,Arthur,Size,8,Color,Black/Bone,,,arthur-8-black/bone,1,0
 arthur,Arthur,Size,8,Color,Chocolate/Bone,,,arthur-8-chocolate/bone,1,0
-arthur,Arthur,Size,8,Color,Grey/Black,,,arthur-8-grey/black,1,0
+arthur,Arthur,Size,8,Color,Grey/Black,,,arthur-8-grey/black,0,0
 arthur,Arthur,Size,8,Color,Navy/Red,,,arthur-8-navy/red,1,0
 arthur,Arthur,Size,8.5,Color,Black/Bone,,,arthur-8.5-black/bone,0,0
 arthur,Arthur,Size,8.5,Color,Chocolate/Bone,,,arthur-8.5-chocolate/bone,0,0
-arthur,Arthur,Size,8.5,Color,Grey/Black,,,arthur-8.5-grey/black,1,0
+arthur,Arthur,Size,8.5,Color,Grey/Black,,,arthur-8.5-grey/black,0,0
 arthur,Arthur,Size,8.5,Color,Navy/Red,,,arthur-8.5-navy/red,0,0
 arthur,Arthur,Size,9,Color,Black/Bone,,,arthur-9-black/bone,1,0
 arthur,Arthur,Size,9,Color,Chocolate/Bone,,,arthur-9-chocolate/bone,0,0
-arthur,Arthur,Size,9,Color,Grey/Black,,,arthur-9-grey/black,1,0
+arthur,Arthur,Size,9,Color,Grey/Black,,,arthur-9-grey/black,0,0
 arthur,Arthur,Size,9,Color,Navy/Red,,,arthur-9-navy/red,1,0
 arthur,Arthur,Size,9.5,Color,Black/Bone,,,arthur-9.5-black/bone,0,0
 arthur,Arthur,Size,9.5,Color,Chocolate/Bone,,,arthur-9.5-chocolate/bone,0,0
-arthur,Arthur,Size,9.5,Color,Grey/Black,,,arthur-9.5-grey/black,1,0
+arthur,Arthur,Size,9.5,Color,Grey/Black,,,arthur-9.5-grey/black,0,0
 arthur,Arthur,Size,9.5,Color,Navy/Red,,,arthur-9.5-navy/red,0,0
 arthur,Arthur,Size,10,Color,Black/Bone,,,arthur-10-black/bone,1,0
 arthur,Arthur,Size,10,Color,Chocolate/Bone,,,arthur-10-chocolate/bone,0,0
-arthur,Arthur,Size,10,Color,Grey/Black,,,arthur-10-grey/black,1,0
+arthur,Arthur,Size,10,Color,Grey/Black,,,arthur-10-grey/black,0,0
 arthur,Arthur,Size,10,Color,Navy/Red,,,arthur-10-navy/red,1,0
 arthur,Arthur,Size,10.5,Color,Black/Bone,,,arthur-10.5-black/bone,0,0
 arthur,Arthur,Size,10.5,Color,Chocolate/Bone,,,arthur-10.5-chocolate/bone,0,0
-arthur,Arthur,Size,10.5,Color,Grey/Black,,,arthur-10.5-grey/black,1,0
+arthur,Arthur,Size,10.5,Color,Grey/Black,,,arthur-10.5-grey/black,0,0
 arthur,Arthur,Size,10.5,Color,Navy/Red,,,arthur-10.5-navy/red,0,0
 arthur,Arthur,Size,11,Color,Black/Bone,,,arthur-11-black/bone,1,0
 arthur,Arthur,Size,11,Color,Chocolate/Bone,,,arthur-11-chocolate/bone,0,0
-arthur,Arthur,Size,11,Color,Grey/Black,,,arthur-11-grey/black,1,0
+arthur,Arthur,Size,11,Color,Grey/Black,,,arthur-11-grey/black,0,0
 arthur,Arthur,Size,11,Color,Navy/Red,,,arthur-11-navy/red,0,0
 arthur,Arthur,Size,11.5,Color,Black/Bone,,,arthur-11.5-black/bone,0,0
 arthur,Arthur,Size,11.5,Color,Chocolate/Bone,,,arthur-11.5-chocolate/bone,0,0
-arthur,Arthur,Size,11.5,Color,Grey/Black,,,arthur-11.5-grey/black,1,0
+arthur,Arthur,Size,11.5,Color,Grey/Black,,,arthur-11.5-grey/black,0,0
 arthur,Arthur,Size,11.5,Color,Navy/Red,,,arthur-11.5-navy/red,0,0
 arthur,Arthur,Size,12,Color,Black/Bone,,,arthur-12-black/bone,1,0
 arthur,Arthur,Size,12,Color,Chocolate/Bone,,,arthur-12-chocolate/bone,1,0
-arthur,Arthur,Size,12,Color,Grey/Black,,,arthur-12-grey/black,1,0
+arthur,Arthur,Size,12,Color,Grey/Black,,,arthur-12-grey/black,0,0
 arthur,Arthur,Size,12,Color,Navy/Red,,,arthur-12-navy/red,0,0
 arthur,Arthur,Size,13,Color,Black/Bone,,,arthur-13-black/bone,1,0
 arthur,Arthur,Size,13,Color,Chocolate/Bone,,,arthur-13-chocolate/bone,0,0
-arthur,Arthur,Size,13,Color,Grey/Black,,,arthur-13-grey/black,1,0
+arthur,Arthur,Size,13,Color,Grey/Black,,,arthur-13-grey/black,0,0
 arthur,Arthur,Size,13,Color,Navy/Red,,,arthur-13-navy/red,0,0
 arthur,Arthur,Size,14,Color,Black/Bone,,,arthur-14-black/bone,0,0
 arthur,Arthur,Size,14,Color,Chocolate/Bone,,,arthur-14-chocolate/bone,0,0
-arthur,Arthur,Size,14,Color,Grey/Black,,,arthur-14-grey/black,1,0
+arthur,Arthur,Size,14,Color,Grey/Black,,,arthur-14-grey/black,0,0
 arthur,Arthur,Size,14,Color,Navy/Red,,,arthur-14-navy/red,0,0
 charlie,Charlie,Size,8,Color,Dark Brown/Bone,,,charlie-8-darkbrown/bone,1,0
 charlie,Charlie,Size,8,Color,Dark Grey/Light Grey,,,charlie-8-darkgrey/lightgrey,1,0
 charlie,Charlie,Size,8.5,Color,Dark Brown/Bone,,,charlie-8.5-darkbrown/bone,1,0
 charlie,Charlie,Size,8.5,Color,Dark Grey/Light Grey,,,charlie-8.5-darkgrey/lightgrey,1,0
-charlie,Charlie,Size,9,Color,Dark Brown/Bone,,,charlie-9-darkbrown/bone,1,0
-charlie,Charlie,Size,9,Color,Dark Grey/Light Grey,,,charlie-9-darkgrey/lightgrey,1,0
-charlie,Charlie,Size,9.5,Color,Dark Brown/Bone,,,charlie-9.5-darkbrown/bone,1,0
+charlie,Charlie,Size,9,Color,Dark Brown/Bone,,,charlie-9-darkbrown/bone,0,0
+charlie,Charlie,Size,9,Color,Dark Grey/Light Grey,,,charlie-9-darkgrey/lightgrey,0,0
+charlie,Charlie,Size,9.5,Color,Dark Brown/Bone,,,charlie-9.5-darkbrown/bone,0,0
 charlie,Charlie,Size,9.5,Color,Dark Grey/Light Grey,,,charlie-9.5-darkgrey/lightgrey,0,0
 charlie,Charlie,Size,10,Color,Dark Brown/Bone,,,charlie-10-darkbrown/bone,0,0
 charlie,Charlie,Size,10,Color,Dark Grey/Light Grey,,,charlie-10-darkgrey/lightgrey,0,0
@@ -210,7 +210,7 @@ charlie,Charlie,Size,14,Color,Dark Brown/Bone,,,charlie-14-darkbrown/bone,1,0
 charlie,Charlie,Size,14,Color,Dark Grey/Light Grey,,,charlie-14-darkgrey/lightgrey,1,0
 edward,Edward,Size,8,Color,Antique Red,,,edward-8-antiquered,1,0
 edward,Edward,Size,8,Color,Blue,,,edward-8-blue,1,0
-edward,Edward,Size,8,Color,Yellow,,,edward-8-yellow,1,0
+edward,Edward,Size,8,Color,Yellow,,,edward-8-yellow,0,0
 edward,Edward,Size,8.5,Color,Antique Red,,,edward-8.5-antiquered,0,0
 edward,Edward,Size,8.5,Color,Blue,,,edward-8.5-blue,0,0
 edward,Edward,Size,8.5,Color,Yellow,,,edward-8.5-yellow,0,0
@@ -242,11 +242,11 @@ edward,Edward,Size,14,Color,Antique Red,,,edward-14-antiquered,1,0
 edward,Edward,Size,14,Color,Blue,,,edward-14-blue,1,0
 edward,Edward,Size,14,Color,Yellow,,,edward-14-yellow,1,0
 elliot,Elliot,Size,8,Color,Taupe/Chocolate,,,elliot-8-taupe/chocolate,1,0
-elliot,Elliot,Size,8.5,Color,Taupe/Chocolate,,,elliot-8.5-taupe/chocolate,0,0
+elliot,Elliot,Size,8.5,Color,Taupe/Chocolate,,,elliot-8.5-taupe/chocolate,1,0
 elliot,Elliot,Size,9,Color,Taupe/Chocolate,,,elliot-9-taupe/chocolate,1,0
-elliot,Elliot,Size,9.5,Color,Taupe/Chocolate,,,elliot-9.5-taupe/chocolate,0,0
+elliot,Elliot,Size,9.5,Color,Taupe/Chocolate,,,elliot-9.5-taupe/chocolate,1,0
 elliot,Elliot,Size,10,Color,Taupe/Chocolate,,,elliot-10-taupe/chocolate,1,0
-elliot,Elliot,Size,10.5,Color,Taupe/Chocolate,,,elliot-10.5-taupe/chocolate,0,0
+elliot,Elliot,Size,10.5,Color,Taupe/Chocolate,,,elliot-10.5-taupe/chocolate,1,0
 elliot,Elliot,Size,11,Color,Taupe/Chocolate,,,elliot-11-taupe/chocolate,1,0
 elliot,Elliot,Size,11.5,Color,Taupe/Chocolate,,,elliot-11.5-taupe/chocolate,1,0
 elliot,Elliot,Size,12,Color,Taupe/Chocolate,,,elliot-12-taupe/chocolate,1,0
@@ -267,15 +267,15 @@ ethan,Ethan,Size,9.5,Color,Purple,,,ethan-9.5-purple,1,0
 ethan,Ethan,Size,10,Color,Black,,,ethan-10-black,1,0
 ethan,Ethan,Size,10,Color,Cognac,,,ethan-10-cognac,1,0
 ethan,Ethan,Size,10,Color,Purple,,,ethan-10-purple,1,0
-ethan,Ethan,Size,10.5,Color,Black,,,ethan-10.5-black,0,0
+ethan,Ethan,Size,10.5,Color,Black,,,ethan-10.5-black,1,0
 ethan,Ethan,Size,10.5,Color,Cognac,,,ethan-10.5-cognac,1,0
 ethan,Ethan,Size,10.5,Color,Purple,,,ethan-10.5-purple,1,0
 ethan,Ethan,Size,11,Color,Black,,,ethan-11-black,1,0
 ethan,Ethan,Size,11,Color,Cognac,,,ethan-11-cognac,1,0
 ethan,Ethan,Size,11,Color,Purple,,,ethan-11-purple,1,0
-ethan,Ethan,Size,11.5,Color,Black,,,ethan-11.5-black,0,0
-ethan,Ethan,Size,11.5,Color,Cognac,,,ethan-11.5-cognac,0,0
-ethan,Ethan,Size,11.5,Color,Purple,,,ethan-11.5-purple,0,0
+ethan,Ethan,Size,11.5,Color,Black,,,ethan-11.5-black,1,0
+ethan,Ethan,Size,11.5,Color,Cognac,,,ethan-11.5-cognac,1,0
+ethan,Ethan,Size,11.5,Color,Purple,,,ethan-11.5-purple,1,0
 ethan,Ethan,Size,12,Color,Black,,,ethan-12-black,1,0
 ethan,Ethan,Size,12,Color,Cognac,,,ethan-12-cognac,1,0
 ethan,Ethan,Size,12,Color,Purple,,,ethan-12-purple,1,0
@@ -297,59 +297,59 @@ finley,Finley,Size,8.5,Color,Burgundy,,,finley-8.5-burgundy,1,0
 finley,Finley,Size,8.5,Color,Cognac,,,finley-8.5-cognac,1,0
 finley,Finley,Size,8.5,Color,Pink,,,finley-8.5-pink,1,0
 finley,Finley,Size,8.5,Color,White,,,finley-8.5-white,1,0
-finley,Finley,Size,9,Color,Black,,,finley-9-black,1,0
+finley,Finley,Size,9,Color,Black,,,finley-9-black,0,0
 finley,Finley,Size,9,Color,Blue,,,finley-9-blue,1,0
-finley,Finley,Size,9,Color,Burgundy,,,finley-9-burgundy,1,0
+finley,Finley,Size,9,Color,Burgundy,,,finley-9-burgundy,0,0
 finley,Finley,Size,9,Color,Cognac,,,finley-9-cognac,1,0
 finley,Finley,Size,9,Color,Pink,,,finley-9-pink,1,0
 finley,Finley,Size,9,Color,White,,,finley-9-white,1,0
-finley,Finley,Size,9.5,Color,Black,,,finley-9.5-black,1,0
+finley,Finley,Size,9.5,Color,Black,,,finley-9.5-black,0,0
 finley,Finley,Size,9.5,Color,Blue,,,finley-9.5-blue,1,0
-finley,Finley,Size,9.5,Color,Burgundy,,,finley-9.5-burgundy,1,0
-finley,Finley,Size,9.5,Color,Cognac,,,finley-9.5-cognac,1,0
+finley,Finley,Size,9.5,Color,Burgundy,,,finley-9.5-burgundy,0,0
+finley,Finley,Size,9.5,Color,Cognac,,,finley-9.5-cognac,0,0
 finley,Finley,Size,9.5,Color,Pink,,,finley-9.5-pink,1,0
-finley,Finley,Size,9.5,Color,White,,,finley-9.5-white,1,0
-finley,Finley,Size,10,Color,Black,,,finley-10-black,1,0
+finley,Finley,Size,9.5,Color,White,,,finley-9.5-white,0,0
+finley,Finley,Size,10,Color,Black,,,finley-10-black,0,0
 finley,Finley,Size,10,Color,Blue,,,finley-10-blue,1,0
 finley,Finley,Size,10,Color,Burgundy,,,finley-10-burgundy,1,0
 finley,Finley,Size,10,Color,Cognac,,,finley-10-cognac,1,0
-finley,Finley,Size,10,Color,Pink,,,finley-10-pink,1,0
-finley,Finley,Size,10,Color,White,,,finley-10-white,1,0
+finley,Finley,Size,10,Color,Pink,,,finley-10-pink,0,0
+finley,Finley,Size,10,Color,White,,,finley-10-white,0,0
 finley,Finley,Size,10.5,Color,Black,,,finley-10.5-black,1,0
 finley,Finley,Size,10.5,Color,Blue,,,finley-10.5-blue,1,0
 finley,Finley,Size,10.5,Color,Burgundy,,,finley-10.5-burgundy,1,0
 finley,Finley,Size,10.5,Color,Cognac,,,finley-10.5-cognac,1,0
-finley,Finley,Size,10.5,Color,Pink,,,finley-10.5-pink,1,0
-finley,Finley,Size,10.5,Color,White,,,finley-10.5-white,1,0
-finley,Finley,Size,11,Color,Black,,,finley-11-black,1,0
+finley,Finley,Size,10.5,Color,Pink,,,finley-10.5-pink,0,0
+finley,Finley,Size,10.5,Color,White,,,finley-10.5-white,0,0
+finley,Finley,Size,11,Color,Black,,,finley-11-black,0,0
 finley,Finley,Size,11,Color,Blue,,,finley-11-blue,1,0
 finley,Finley,Size,11,Color,Burgundy,,,finley-11-burgundy,1,0
-finley,Finley,Size,11,Color,Cognac,,,finley-11-cognac,1,0
-finley,Finley,Size,11,Color,Pink,,,finley-11-pink,1,0
-finley,Finley,Size,11,Color,White,,,finley-11-white,1,0
+finley,Finley,Size,11,Color,Cognac,,,finley-11-cognac,0,0
+finley,Finley,Size,11,Color,Pink,,,finley-11-pink,0,0
+finley,Finley,Size,11,Color,White,,,finley-11-white,0,0
 finley,Finley,Size,11.5,Color,Black,,,finley-11.5-black,1,0
 finley,Finley,Size,11.5,Color,Blue,,,finley-11.5-blue,1,0
-finley,Finley,Size,11.5,Color,Burgundy,,,finley-11.5-burgundy,1,0
+finley,Finley,Size,11.5,Color,Burgundy,,,finley-11.5-burgundy,0,0
 finley,Finley,Size,11.5,Color,Cognac,,,finley-11.5-cognac,1,0
-finley,Finley,Size,11.5,Color,Pink,,,finley-11.5-pink,1,0
-finley,Finley,Size,11.5,Color,White,,,finley-11.5-white,1,0
-finley,Finley,Size,12,Color,Black,,,finley-12-black,1,0
+finley,Finley,Size,11.5,Color,Pink,,,finley-11.5-pink,0,0
+finley,Finley,Size,11.5,Color,White,,,finley-11.5-white,0,0
+finley,Finley,Size,12,Color,Black,,,finley-12-black,0,0
 finley,Finley,Size,12,Color,Blue,,,finley-12-blue,1,0
 finley,Finley,Size,12,Color,Burgundy,,,finley-12-burgundy,1,0
 finley,Finley,Size,12,Color,Cognac,,,finley-12-cognac,1,0
-finley,Finley,Size,12,Color,Pink,,,finley-12-pink,1,0
-finley,Finley,Size,12,Color,White,,,finley-12-white,1,0
-finley,Finley,Size,13,Color,Black,,,finley-13-black,1,0
+finley,Finley,Size,12,Color,Pink,,,finley-12-pink,0,0
+finley,Finley,Size,12,Color,White,,,finley-12-white,0,0
+finley,Finley,Size,13,Color,Black,,,finley-13-black,0,0
 finley,Finley,Size,13,Color,Blue,,,finley-13-blue,1,0
 finley,Finley,Size,13,Color,Burgundy,,,finley-13-burgundy,1,0
 finley,Finley,Size,13,Color,Cognac,,,finley-13-cognac,1,0
 finley,Finley,Size,13,Color,Pink,,,finley-13-pink,1,0
-finley,Finley,Size,13,Color,White,,,finley-13-white,1,0
+finley,Finley,Size,13,Color,White,,,finley-13-white,0,0
 finley,Finley,Size,14,Color,Black,,,finley-14-black,1,0
 finley,Finley,Size,14,Color,Blue,,,finley-14-blue,1,0
-finley,Finley,Size,14,Color,Burgundy,,,finley-14-burgundy,1,0
-finley,Finley,Size,14,Color,Cognac,,,finley-14-cognac,1,0
-finley,Finley,Size,14,Color,Pink,,,finley-14-pink,1,0
+finley,Finley,Size,14,Color,Burgundy,,,finley-14-burgundy,0,0
+finley,Finley,Size,14,Color,Cognac,,,finley-14-cognac,0,0
+finley,Finley,Size,14,Color,Pink,,,finley-14-pink,0,0
 finley,Finley,Size,14,Color,White,,,finley-14-white,1,0
 george,George,Size,8,Color,Black,,,george-8-black,1,0
 george,George,Size,8,Color,Burgundy,,,george-8-burgundy,1,0
@@ -396,27 +396,27 @@ harry,Harry,Size,13,Color,Burgundy,,,harry-13-burgundy,1,0
 harry,Harry,Size,14,Color,Black,,,harry-14-black,0,0
 harry,Harry,Size,14,Color,Burgundy,,,harry-14-burgundy,0,0
 hugo,Hugo,Size,8,Color,Black,,,hugo-8-black,1,0
-hugo,Hugo,Size,8,Color,Cognac,,,hugo-8-cognac,1,0
+hugo,Hugo,Size,8,Color,Cognac,,,hugo-8-cognac,0,0
 hugo,Hugo,Size,8.5,Color,Black,,,hugo-8.5-black,0,0
-hugo,Hugo,Size,8.5,Color,Cognac,,,hugo-8.5-cognac,1,0
+hugo,Hugo,Size,8.5,Color,Cognac,,,hugo-8.5-cognac,0,0
 hugo,Hugo,Size,9,Color,Black,,,hugo-9-black,0,0
-hugo,Hugo,Size,9,Color,Cognac,,,hugo-9-cognac,1,0
+hugo,Hugo,Size,9,Color,Cognac,,,hugo-9-cognac,0,0
 hugo,Hugo,Size,9.5,Color,Black,,,hugo-9.5-black,0,0
-hugo,Hugo,Size,9.5,Color,Cognac,,,hugo-9.5-cognac,1,0
-hugo,Hugo,Size,10,Color,Black,,,hugo-10-black,0,0
-hugo,Hugo,Size,10,Color,Cognac,,,hugo-10-cognac,1,0
+hugo,Hugo,Size,9.5,Color,Cognac,,,hugo-9.5-cognac,0,0
+hugo,Hugo,Size,10,Color,Black,,,hugo-10-black,1,0
+hugo,Hugo,Size,10,Color,Cognac,,,hugo-10-cognac,0,0
 hugo,Hugo,Size,10.5,Color,Black,,,hugo-10.5-black,0,0
-hugo,Hugo,Size,10.5,Color,Cognac,,,hugo-10.5-cognac,1,0
-hugo,Hugo,Size,11,Color,Black,,,hugo-11-black,1,0
-hugo,Hugo,Size,11,Color,Cognac,,,hugo-11-cognac,1,0
+hugo,Hugo,Size,10.5,Color,Cognac,,,hugo-10.5-cognac,0,0
+hugo,Hugo,Size,11,Color,Black,,,hugo-11-black,0,0
+hugo,Hugo,Size,11,Color,Cognac,,,hugo-11-cognac,0,0
 hugo,Hugo,Size,11.5,Color,Black,,,hugo-11.5-black,0,0
-hugo,Hugo,Size,11.5,Color,Cognac,,,hugo-11.5-cognac,1,0
+hugo,Hugo,Size,11.5,Color,Cognac,,,hugo-11.5-cognac,0,0
 hugo,Hugo,Size,12,Color,Black,,,hugo-12-black,0,0
-hugo,Hugo,Size,12,Color,Cognac,,,hugo-12-cognac,1,0
+hugo,Hugo,Size,12,Color,Cognac,,,hugo-12-cognac,0,0
 hugo,Hugo,Size,13,Color,Black,,,hugo-13-black,1,0
-hugo,Hugo,Size,13,Color,Cognac,,,hugo-13-cognac,1,0
+hugo,Hugo,Size,13,Color,Cognac,,,hugo-13-cognac,0,0
 hugo,Hugo,Size,14,Color,Black,,,hugo-14-black,0,0
-hugo,Hugo,Size,14,Color,Cognac,,,hugo-14-cognac,1,0
+hugo,Hugo,Size,14,Color,Cognac,,,hugo-14-cognac,0,0
 jack,Jack,Size,8,Color,Blue,,,jack-8-blue,1,0
 jack,Jack,Size,8,Color,Chocolate,,,jack-8-chocolate,0,0
 jack,Jack,Size,8,Color,Red,,,jack-8-red,1,0
@@ -469,42 +469,42 @@ jacob,Jacob,Size,11.5,Color,Navy,,,jacob-11.5-navy,1,0
 jacob,Jacob,Size,12,Color,Black,,,jacob-12-black,1,0
 jacob,Jacob,Size,12,Color,Navy,,,jacob-12-navy,1,0
 jacob,Jacob,Size,13,Color,Black,,,jacob-13-black,1,0
-jacob,Jacob,Size,13,Color,Navy,,,jacob-13-navy,1,0
+jacob,Jacob,Size,13,Color,Navy,,,jacob-13-navy,0,0
 jacob,Jacob,Size,14,Color,Black,,,jacob-14-black,0,0
 jacob,Jacob,Size,14,Color,Navy,,,jacob-14-navy,0,0
-jake,Jake,Size,8,Color,Black,,,jake-8-black,1,0
-jake,Jake,Size,8,Color,Chocolate,,,jake-8-chocolate,1,0
-jake,Jake,Size,8,Color,Navy,,,jake-8-navy,1,0
-jake,Jake,Size,8.5,Color,Black,,,jake-8.5-black,1,0
-jake,Jake,Size,8.5,Color,Chocolate,,,jake-8.5-chocolate,1,0
-jake,Jake,Size,8.5,Color,Navy,,,jake-8.5-navy,1,0
-jake,Jake,Size,9,Color,Black,,,jake-9-black,1,0
-jake,Jake,Size,9,Color,Chocolate,,,jake-9-chocolate,1,0
-jake,Jake,Size,9,Color,Navy,,,jake-9-navy,1,0
-jake,Jake,Size,9.5,Color,Black,,,jake-9.5-black,1,0
-jake,Jake,Size,9.5,Color,Chocolate,,,jake-9.5-chocolate,1,0
-jake,Jake,Size,9.5,Color,Navy,,,jake-9.5-navy,1,0
-jake,Jake,Size,10,Color,Black,,,jake-10-black,1,0
-jake,Jake,Size,10,Color,Chocolate,,,jake-10-chocolate,1,0
-jake,Jake,Size,10,Color,Navy,,,jake-10-navy,1,0
-jake,Jake,Size,10.5,Color,Black,,,jake-10.5-black,1,0
-jake,Jake,Size,10.5,Color,Chocolate,,,jake-10.5-chocolate,1,0
-jake,Jake,Size,10.5,Color,Navy,,,jake-10.5-navy,1,0
-jake,Jake,Size,11,Color,Black,,,jake-11-black,1,0
-jake,Jake,Size,11,Color,Chocolate,,,jake-11-chocolate,1,0
-jake,Jake,Size,11,Color,Navy,,,jake-11-navy,1,0
-jake,Jake,Size,11.5,Color,Black,,,jake-11.5-black,1,0
-jake,Jake,Size,11.5,Color,Chocolate,,,jake-11.5-chocolate,1,0
-jake,Jake,Size,11.5,Color,Navy,,,jake-11.5-navy,1,0
-jake,Jake,Size,12,Color,Black,,,jake-12-black,1,0
-jake,Jake,Size,12,Color,Chocolate,,,jake-12-chocolate,1,0
-jake,Jake,Size,12,Color,Navy,,,jake-12-navy,1,0
-jake,Jake,Size,13,Color,Black,,,jake-13-black,1,0
-jake,Jake,Size,13,Color,Chocolate,,,jake-13-chocolate,1,0
-jake,Jake,Size,13,Color,Navy,,,jake-13-navy,1,0
-jake,Jake,Size,14,Color,Black,,,jake-14-black,1,0
-jake,Jake,Size,14,Color,Chocolate,,,jake-14-chocolate,1,0
-jake,Jake,Size,14,Color,Navy,,,jake-14-navy,1,0
+jake,Jake,Size,8,Color,Black,,,jake-8-black,0,0
+jake,Jake,Size,8,Color,Chocolate,,,jake-8-chocolate,0,0
+jake,Jake,Size,8,Color,Navy,,,jake-8-navy,0,0
+jake,Jake,Size,8.5,Color,Black,,,jake-8.5-black,0,0
+jake,Jake,Size,8.5,Color,Chocolate,,,jake-8.5-chocolate,0,0
+jake,Jake,Size,8.5,Color,Navy,,,jake-8.5-navy,0,0
+jake,Jake,Size,9,Color,Black,,,jake-9-black,0,0
+jake,Jake,Size,9,Color,Chocolate,,,jake-9-chocolate,0,0
+jake,Jake,Size,9,Color,Navy,,,jake-9-navy,0,0
+jake,Jake,Size,9.5,Color,Black,,,jake-9.5-black,0,0
+jake,Jake,Size,9.5,Color,Chocolate,,,jake-9.5-chocolate,0,0
+jake,Jake,Size,9.5,Color,Navy,,,jake-9.5-navy,0,0
+jake,Jake,Size,10,Color,Black,,,jake-10-black,0,0
+jake,Jake,Size,10,Color,Chocolate,,,jake-10-chocolate,0,0
+jake,Jake,Size,10,Color,Navy,,,jake-10-navy,0,0
+jake,Jake,Size,10.5,Color,Black,,,jake-10.5-black,0,0
+jake,Jake,Size,10.5,Color,Chocolate,,,jake-10.5-chocolate,0,0
+jake,Jake,Size,10.5,Color,Navy,,,jake-10.5-navy,0,0
+jake,Jake,Size,11,Color,Black,,,jake-11-black,0,0
+jake,Jake,Size,11,Color,Chocolate,,,jake-11-chocolate,0,0
+jake,Jake,Size,11,Color,Navy,,,jake-11-navy,0,0
+jake,Jake,Size,11.5,Color,Black,,,jake-11.5-black,0,0
+jake,Jake,Size,11.5,Color,Chocolate,,,jake-11.5-chocolate,0,0
+jake,Jake,Size,11.5,Color,Navy,,,jake-11.5-navy,0,0
+jake,Jake,Size,12,Color,Black,,,jake-12-black,0,0
+jake,Jake,Size,12,Color,Chocolate,,,jake-12-chocolate,0,0
+jake,Jake,Size,12,Color,Navy,,,jake-12-navy,0,0
+jake,Jake,Size,13,Color,Black,,,jake-13-black,0,0
+jake,Jake,Size,13,Color,Chocolate,,,jake-13-chocolate,0,0
+jake,Jake,Size,13,Color,Navy,,,jake-13-navy,0,0
+jake,Jake,Size,14,Color,Black,,,jake-14-black,0,0
+jake,Jake,Size,14,Color,Chocolate,,,jake-14-chocolate,0,0
+jake,Jake,Size,14,Color,Navy,,,jake-14-navy,0,0
 james,James,Size,8,Color,Black,,,james-8-black,1,0
 james,James,Size,8,Color,Brown,,,james-8-brown,1,0
 james,James,Size,8,Color,Cognac,,,james-8-cognac,0,0
@@ -519,7 +519,7 @@ james,James,Size,9,Color,Black,,,james-9-black,1,0
 james,James,Size,9,Color,Brown,,,james-9-brown,0,0
 james,James,Size,9,Color,Cognac,,,james-9-cognac,0,0
 james,James,Size,9,Color,Light Blue,,,james-9-lightblue,1,0
-james,James,Size,9,Color,Pink,,,james-9-pink,1,0
+james,James,Size,9,Color,Pink,,,james-9-pink,0,0
 james,James,Size,9.5,Color,Black,,,james-9.5-black,0,0
 james,James,Size,9.5,Color,Brown,,,james-9.5-brown,0,0
 james,James,Size,9.5,Color,Cognac,,,james-9.5-cognac,1,0
@@ -539,10 +539,10 @@ james,James,Size,11,Color,Black,,,james-11-black,1,0
 james,James,Size,11,Color,Brown,,,james-11-brown,0,0
 james,James,Size,11,Color,Cognac,,,james-11-cognac,1,0
 james,James,Size,11,Color,Light Blue,,,james-11-lightblue,0,0
-james,James,Size,11,Color,Pink,,,james-11-pink,1,0
+james,James,Size,11,Color,Pink,,,james-11-pink,0,0
 james,James,Size,11.5,Color,Black,,,james-11.5-black,1,0
 james,James,Size,11.5,Color,Brown,,,james-11.5-brown,0,0
-james,James,Size,11.5,Color,Cognac,,,james-11.5-cognac,1,0
+james,James,Size,11.5,Color,Cognac,,,james-11.5-cognac,0,0
 james,James,Size,11.5,Color,Light Blue,,,james-11.5-lightblue,0,0
 james,James,Size,11.5,Color,Pink,,,james-11.5-pink,0,0
 james,James,Size,12,Color,Black,,,james-12-black,0,0
@@ -561,13 +561,13 @@ james,James,Size,14,Color,Cognac,,,james-14-cognac,0,0
 james,James,Size,14,Color,Light Blue,,,james-14-lightblue,0,0
 james,James,Size,14,Color,Pink,,,james-14-pink,0,0
 logan,Logan,Size,8,Color,Black,,,logan-8-black,1,0
-logan,Logan,Size,8.5,Color,Black,,,logan-8.5-black,1,0
+logan,Logan,Size,8.5,Color,Black,,,logan-8.5-black,0,0
 logan,Logan,Size,9,Color,Black,,,logan-9-black,1,0
-logan,Logan,Size,9.5,Color,Black,,,logan-9.5-black,1,0
+logan,Logan,Size,9.5,Color,Black,,,logan-9.5-black,0,0
 logan,Logan,Size,10,Color,Black,,,logan-10-black,1,0
-logan,Logan,Size,10.5,Color,Black,,,logan-10.5-black,1,0
+logan,Logan,Size,10.5,Color,Black,,,logan-10.5-black,0,0
 logan,Logan,Size,11,Color,Black,,,logan-11-black,1,0
-logan,Logan,Size,11.5,Color,Black,,,logan-11.5-black,1,0
+logan,Logan,Size,11.5,Color,Black,,,logan-11.5-black,0,0
 logan,Logan,Size,12,Color,Black,,,logan-12-black,1,0
 logan,Logan,Size,13,Color,Black,,,logan-13-black,1,0
 logan,Logan,Size,14,Color,Black,,,logan-14-black,1,0
@@ -633,7 +633,7 @@ oliver,Oliver,Size,9.5,Color,Black,,,oliver-9.5-black,1,0
 oliver,Oliver,Size,10,Color,Black,,,oliver-10-black,1,0
 oliver,Oliver,Size,10.5,Color,Black,,,oliver-10.5-black,1,0
 oliver,Oliver,Size,11,Color,Black,,,oliver-11-black,1,0
-oliver,Oliver,Size,11.5,Color,Black,,,oliver-11.5-black,0,0
+oliver,Oliver,Size,11.5,Color,Black,,,oliver-11.5-black,1,0
 oliver,Oliver,Size,12,Color,Black,,,oliver-12-black,0,0
 oliver,Oliver,Size,13,Color,Black,,,oliver-13-black,0,0
 oliver,Oliver,Size,14,Color,Black,,,oliver-14-black,0,0
@@ -657,72 +657,72 @@ oscar,Oscar,Size,12,Color,Black/Off White,,,oscar-12-black/offwhite,0,0
 oscar,Oscar,Size,12,Color,Brandy/Cognac,,,oscar-12-brandy/cognac,0,0
 oscar,Oscar,Size,13,Color,Black/Off White,,,oscar-13-black/offwhite,1,0
 oscar,Oscar,Size,13,Color,Brandy/Cognac,,,oscar-13-brandy/cognac,0,0
-oscar,Oscar,Size,14,Color,Black/Off White,,,oscar-14-black/offwhite,0,0
+oscar,Oscar,Size,14,Color,Black/Off White,,,oscar-14-black/offwhite,1,0
 oscar,Oscar,Size,14,Color,Brandy/Cognac,,,oscar-14-brandy/cognac,1,0
-sam,Sam,Size,8,Color,Red/Navy/White Combo,,,sam-8-red/navy/whitecombo,1,0
-sam,Sam,Size,8,Color,Red/Green/White Combo,,,sam-8-red/green/whitecombo,1,0
-sam,Sam,Size,8.5,Color,Red/Navy/White Combo,,,sam-8.5-red/navy/whitecombo,1,0
-sam,Sam,Size,8.5,Color,Red/Green/White Combo,,,sam-8.5-red/green/whitecombo,1,0
-sam,Sam,Size,9,Color,Red/Navy/White Combo,,,sam-9-red/navy/whitecombo,1,0
-sam,Sam,Size,9,Color,Red/Green/White Combo,,,sam-9-red/green/whitecombo,1,0
-sam,Sam,Size,9.5,Color,Red/Navy/White Combo,,,sam-9.5-red/navy/whitecombo,1,0
-sam,Sam,Size,9.5,Color,Red/Green/White Combo,,,sam-9.5-red/green/whitecombo,1,0
-sam,Sam,Size,10,Color,Red/Navy/White Combo,,,sam-10-red/navy/whitecombo,1,0
-sam,Sam,Size,10,Color,Red/Green/White Combo,,,sam-10-red/green/whitecombo,1,0
-sam,Sam,Size,10.5,Color,Red/Navy/White Combo,,,sam-10.5-red/navy/whitecombo,1,0
-sam,Sam,Size,10.5,Color,Red/Green/White Combo,,,sam-10.5-red/green/whitecombo,1,0
-sam,Sam,Size,11,Color,Red/Navy/White Combo,,,sam-11-red/navy/whitecombo,1,0
-sam,Sam,Size,11,Color,Red/Green/White Combo,,,sam-11-red/green/whitecombo,1,0
-sam,Sam,Size,11.5,Color,Red/Navy/White Combo,,,sam-11.5-red/navy/whitecombo,1,0
-sam,Sam,Size,11.5,Color,Red/Green/White Combo,,,sam-11.5-red/green/whitecombo,1,0
-sam,Sam,Size,12,Color,Red/Navy/White Combo,,,sam-12-red/navy/whitecombo,1,0
-sam,Sam,Size,12,Color,Red/Green/White Combo,,,sam-12-red/green/whitecombo,1,0
-sam,Sam,Size,13,Color,Red/Navy/White Combo,,,sam-13-red/navy/whitecombo,1,0
-sam,Sam,Size,13,Color,Red/Green/White Combo,,,sam-13-red/green/whitecombo,1,0
-sam,Sam,Size,14,Color,Red/Navy/White Combo,,,sam-14-red/navy/whitecombo,1,0
-sam,Sam,Size,14,Color,Red/Green/White Combo,,,sam-14-red/green/whitecombo,1,0
-samuel,Samuel,Size,8,Color,Red/Green/White Combo,,,samuel-8-red/green/whitecombo,1,0
-samuel,Samuel,Size,8.5,Color,Red/Green/White Combo,,,samuel-8.5-red/green/whitecombo,1,0
-samuel,Samuel,Size,9,Color,Red/Green/White Combo,,,samuel-9-red/green/whitecombo,1,0
-samuel,Samuel,Size,9.5,Color,Red/Green/White Combo,,,samuel-9.5-red/green/whitecombo,1,0
-samuel,Samuel,Size,10,Color,Red/Green/White Combo,,,samuel-10-red/green/whitecombo,1,0
-samuel,Samuel,Size,10.5,Color,Red/Green/White Combo,,,samuel-10.5-red/green/whitecombo,1,0
-samuel,Samuel,Size,11,Color,Red/Green/White Combo,,,samuel-11-red/green/whitecombo,1,0
-samuel,Samuel,Size,11.5,Color,Red/Green/White Combo,,,samuel-11.5-red/green/whitecombo,1,0
-samuel,Samuel,Size,12,Color,Red/Green/White Combo,,,samuel-12-red/green/whitecombo,1,0
-samuel,Samuel,Size,13,Color,Red/Green/White Combo,,,samuel-13-red/green/whitecombo,1,0
-samuel,Samuel,Size,14,Color,Red/Green/White Combo,,,samuel-14-red/green/whitecombo,1,0
-toby,Toby,Size,8,Color,Red/Green/White Combo,,,toby-8-red/green/whitecombo,1,0
-toby,Toby,Size,8.5,Color,Red/Green/White Combo,,,toby-8.5-red/green/whitecombo,1,0
-toby,Toby,Size,9,Color,Red/Green/White Combo,,,toby-9-red/green/whitecombo,1,0
-toby,Toby,Size,9.5,Color,Red/Green/White Combo,,,toby-9.5-red/green/whitecombo,1,0
-toby,Toby,Size,10,Color,Red/Green/White Combo,,,toby-10-red/green/whitecombo,1,0
-toby,Toby,Size,10.5,Color,Red/Green/White Combo,,,toby-10.5-red/green/whitecombo,1,0
-toby,Toby,Size,11,Color,Red/Green/White Combo,,,toby-11-red/green/whitecombo,1,0
-toby,Toby,Size,11.5,Color,Red/Green/White Combo,,,toby-11.5-red/green/whitecombo,1,0
-toby,Toby,Size,12,Color,Red/Green/White Combo,,,toby-12-red/green/whitecombo,1,0
-toby,Toby,Size,13,Color,Red/Green/White Combo,,,toby-13-red/green/whitecombo,1,0
-toby,Toby,Size,14,Color,Red/Green/White Combo,,,toby-14-red/green/whitecombo,1,0
+sam,Sam,Size,8,Color,Red/Navy/White Combo,,,sam-8-red/navy/whitecombo,0,0
+sam,Sam,Size,8,Color,Red/Green/White Combo,,,sam-8-red/green/whitecombo,0,0
+sam,Sam,Size,8.5,Color,Red/Navy/White Combo,,,sam-8.5-red/navy/whitecombo,0,0
+sam,Sam,Size,8.5,Color,Red/Green/White Combo,,,sam-8.5-red/green/whitecombo,0,0
+sam,Sam,Size,9,Color,Red/Navy/White Combo,,,sam-9-red/navy/whitecombo,0,0
+sam,Sam,Size,9,Color,Red/Green/White Combo,,,sam-9-red/green/whitecombo,0,0
+sam,Sam,Size,9.5,Color,Red/Navy/White Combo,,,sam-9.5-red/navy/whitecombo,0,0
+sam,Sam,Size,9.5,Color,Red/Green/White Combo,,,sam-9.5-red/green/whitecombo,0,0
+sam,Sam,Size,10,Color,Red/Navy/White Combo,,,sam-10-red/navy/whitecombo,0,0
+sam,Sam,Size,10,Color,Red/Green/White Combo,,,sam-10-red/green/whitecombo,0,0
+sam,Sam,Size,10.5,Color,Red/Navy/White Combo,,,sam-10.5-red/navy/whitecombo,0,0
+sam,Sam,Size,10.5,Color,Red/Green/White Combo,,,sam-10.5-red/green/whitecombo,0,0
+sam,Sam,Size,11,Color,Red/Navy/White Combo,,,sam-11-red/navy/whitecombo,0,0
+sam,Sam,Size,11,Color,Red/Green/White Combo,,,sam-11-red/green/whitecombo,0,0
+sam,Sam,Size,11.5,Color,Red/Navy/White Combo,,,sam-11.5-red/navy/whitecombo,0,0
+sam,Sam,Size,11.5,Color,Red/Green/White Combo,,,sam-11.5-red/green/whitecombo,0,0
+sam,Sam,Size,12,Color,Red/Navy/White Combo,,,sam-12-red/navy/whitecombo,0,0
+sam,Sam,Size,12,Color,Red/Green/White Combo,,,sam-12-red/green/whitecombo,0,0
+sam,Sam,Size,13,Color,Red/Navy/White Combo,,,sam-13-red/navy/whitecombo,0,0
+sam,Sam,Size,13,Color,Red/Green/White Combo,,,sam-13-red/green/whitecombo,0,0
+sam,Sam,Size,14,Color,Red/Navy/White Combo,,,sam-14-red/navy/whitecombo,0,0
+sam,Sam,Size,14,Color,Red/Green/White Combo,,,sam-14-red/green/whitecombo,0,0
+samuel,Samuel,Size,8,Color,Red/Green/White Combo,,,samuel-8-red/green/whitecombo,0,0
+samuel,Samuel,Size,8.5,Color,Red/Green/White Combo,,,samuel-8.5-red/green/whitecombo,0,0
+samuel,Samuel,Size,9,Color,Red/Green/White Combo,,,samuel-9-red/green/whitecombo,0,0
+samuel,Samuel,Size,9.5,Color,Red/Green/White Combo,,,samuel-9.5-red/green/whitecombo,0,0
+samuel,Samuel,Size,10,Color,Red/Green/White Combo,,,samuel-10-red/green/whitecombo,0,0
+samuel,Samuel,Size,10.5,Color,Red/Green/White Combo,,,samuel-10.5-red/green/whitecombo,0,0
+samuel,Samuel,Size,11,Color,Red/Green/White Combo,,,samuel-11-red/green/whitecombo,0,0
+samuel,Samuel,Size,11.5,Color,Red/Green/White Combo,,,samuel-11.5-red/green/whitecombo,0,0
+samuel,Samuel,Size,12,Color,Red/Green/White Combo,,,samuel-12-red/green/whitecombo,0,0
+samuel,Samuel,Size,13,Color,Red/Green/White Combo,,,samuel-13-red/green/whitecombo,0,0
+samuel,Samuel,Size,14,Color,Red/Green/White Combo,,,samuel-14-red/green/whitecombo,0,0
+toby,Toby,Size,8,Color,Red/Green/White Combo,,,toby-8-red/green/whitecombo,0,0
+toby,Toby,Size,8.5,Color,Red/Green/White Combo,,,toby-8.5-red/green/whitecombo,0,0
+toby,Toby,Size,9,Color,Red/Green/White Combo,,,toby-9-red/green/whitecombo,0,0
+toby,Toby,Size,9.5,Color,Red/Green/White Combo,,,toby-9.5-red/green/whitecombo,0,0
+toby,Toby,Size,10,Color,Red/Green/White Combo,,,toby-10-red/green/whitecombo,0,0
+toby,Toby,Size,10.5,Color,Red/Green/White Combo,,,toby-10.5-red/green/whitecombo,0,0
+toby,Toby,Size,11,Color,Red/Green/White Combo,,,toby-11-red/green/whitecombo,0,0
+toby,Toby,Size,11.5,Color,Red/Green/White Combo,,,toby-11.5-red/green/whitecombo,0,0
+toby,Toby,Size,12,Color,Red/Green/White Combo,,,toby-12-red/green/whitecombo,0,0
+toby,Toby,Size,13,Color,Red/Green/White Combo,,,toby-13-red/green/whitecombo,0,0
+toby,Toby,Size,14,Color,Red/Green/White Combo,,,toby-14-red/green/whitecombo,0,0
 trevor,Trevor,Size,8,Color,Black,,,trevor-8-black,1,0
 trevor,Trevor,Size,8,Color,Taupe/Chocolate,,,trevor-8-taupe/chocolate,1,0
 trevor,Trevor,Size,8.5,Color,Black,,,trevor-8.5-black,0,0
 trevor,Trevor,Size,8.5,Color,Taupe/Chocolate,,,trevor-8.5-taupe/chocolate,1,0
 trevor,Trevor,Size,9,Color,Black,,,trevor-9-black,1,0
 trevor,Trevor,Size,9,Color,Taupe/Chocolate,,,trevor-9-taupe/chocolate,1,0
-trevor,Trevor,Size,9.5,Color,Black,,,trevor-9.5-black,0,0
+trevor,Trevor,Size,9.5,Color,Black,,,trevor-9.5-black,1,0
 trevor,Trevor,Size,9.5,Color,Taupe/Chocolate,,,trevor-9.5-taupe/chocolate,0,0
 trevor,Trevor,Size,10,Color,Black,,,trevor-10-black,1,0
 trevor,Trevor,Size,10,Color,Taupe/Chocolate,,,trevor-10-taupe/chocolate,1,0
 trevor,Trevor,Size,10.5,Color,Black,,,trevor-10.5-black,1,0
-trevor,Trevor,Size,10.5,Color,Taupe/Chocolate,,,trevor-10.5-taupe/chocolate,0,0
+trevor,Trevor,Size,10.5,Color,Taupe/Chocolate,,,trevor-10.5-taupe/chocolate,1,0
 trevor,Trevor,Size,11,Color,Black,,,trevor-11-black,1,0
 trevor,Trevor,Size,11,Color,Taupe/Chocolate,,,trevor-11-taupe/chocolate,1,0
 trevor,Trevor,Size,11.5,Color,Black,,,trevor-11.5-black,1,0
 trevor,Trevor,Size,11.5,Color,Taupe/Chocolate,,,trevor-11.5-taupe/chocolate,1,0
 trevor,Trevor,Size,12,Color,Black,,,trevor-12-black,1,0
-trevor,Trevor,Size,12,Color,Taupe/Chocolate,,,trevor-12-taupe/chocolate,0,0
+trevor,Trevor,Size,12,Color,Taupe/Chocolate,,,trevor-12-taupe/chocolate,1,0
 trevor,Trevor,Size,13,Color,Black,,,trevor-13-black,1,0
-trevor,Trevor,Size,13,Color,Taupe/Chocolate,,,trevor-13-taupe/chocolate,1,0
+trevor,Trevor,Size,13,Color,Taupe/Chocolate,,,trevor-13-taupe/chocolate,0,0
 trevor,Trevor,Size,14,Color,Black,,,trevor-14-black,1,0
 trevor,Trevor,Size,14,Color,Taupe/Chocolate,,,trevor-14-taupe/chocolate,1,0
 tyler,Tyler,Size,8,Color,Antique Red,,,tyler-8-antiquered,1,0
@@ -744,7 +744,7 @@ tyler,Tyler,Size,9,Color,Navy,,,tyler-9-navy,1,0
 tyler,Tyler,Size,9,Color,Olive,,,tyler-9-olive,1,0
 tyler,Tyler,Size,9,Color,Pink,,,tyler-9-pink,1,0
 tyler,Tyler,Size,9.5,Color,Antique Red,,,tyler-9.5-antiquered,1,0
-tyler,Tyler,Size,9.5,Color,Black,,,tyler-9.5-black,1,0
+tyler,Tyler,Size,9.5,Color,Black,,,tyler-9.5-black,0,0
 tyler,Tyler,Size,9.5,Color,Cognac,,,tyler-9.5-cognac,1,0
 tyler,Tyler,Size,9.5,Color,Navy,,,tyler-9.5-navy,1,0
 tyler,Tyler,Size,9.5,Color,Olive,,,tyler-9.5-olive,1,0
@@ -753,26 +753,26 @@ tyler,Tyler,Size,10,Color,Antique Red,,,tyler-10-antiquered,1,0
 tyler,Tyler,Size,10,Color,Black,,,tyler-10-black,1,0
 tyler,Tyler,Size,10,Color,Cognac,,,tyler-10-cognac,1,0
 tyler,Tyler,Size,10,Color,Navy,,,tyler-10-navy,1,0
-tyler,Tyler,Size,10,Color,Olive,,,tyler-10-olive,1,0
-tyler,Tyler,Size,10,Color,Pink,,,tyler-10-pink,1,0
+tyler,Tyler,Size,10,Color,Olive,,,tyler-10-olive,0,0
+tyler,Tyler,Size,10,Color,Pink,,,tyler-10-pink,0,0
 tyler,Tyler,Size,10.5,Color,Antique Red,,,tyler-10.5-antiquered,1,0
 tyler,Tyler,Size,10.5,Color,Black,,,tyler-10.5-black,1,0
 tyler,Tyler,Size,10.5,Color,Cognac,,,tyler-10.5-cognac,1,0
 tyler,Tyler,Size,10.5,Color,Navy,,,tyler-10.5-navy,1,0
 tyler,Tyler,Size,10.5,Color,Olive,,,tyler-10.5-olive,1,0
-tyler,Tyler,Size,10.5,Color,Pink,,,tyler-10.5-pink,1,0
+tyler,Tyler,Size,10.5,Color,Pink,,,tyler-10.5-pink,0,0
 tyler,Tyler,Size,11,Color,Antique Red,,,tyler-11-antiquered,1,0
 tyler,Tyler,Size,11,Color,Black,,,tyler-11-black,1,0
 tyler,Tyler,Size,11,Color,Cognac,,,tyler-11-cognac,1,0
 tyler,Tyler,Size,11,Color,Navy,,,tyler-11-navy,1,0
 tyler,Tyler,Size,11,Color,Olive,,,tyler-11-olive,1,0
-tyler,Tyler,Size,11,Color,Pink,,,tyler-11-pink,1,0
+tyler,Tyler,Size,11,Color,Pink,,,tyler-11-pink,0,0
 tyler,Tyler,Size,11.5,Color,Antique Red,,,tyler-11.5-antiquered,1,0
 tyler,Tyler,Size,11.5,Color,Black,,,tyler-11.5-black,1,0
 tyler,Tyler,Size,11.5,Color,Cognac,,,tyler-11.5-cognac,1,0
 tyler,Tyler,Size,11.5,Color,Navy,,,tyler-11.5-navy,1,0
 tyler,Tyler,Size,11.5,Color,Olive,,,tyler-11.5-olive,1,0
-tyler,Tyler,Size,11.5,Color,Pink,,,tyler-11.5-pink,1,0
+tyler,Tyler,Size,11.5,Color,Pink,,,tyler-11.5-pink,0,0
 tyler,Tyler,Size,12,Color,Antique Red,,,tyler-12-antiquered,1,0
 tyler,Tyler,Size,12,Color,Black,,,tyler-12-black,1,0
 tyler,Tyler,Size,12,Color,Cognac,,,tyler-12-cognac,1,0
@@ -785,8 +785,8 @@ tyler,Tyler,Size,13,Color,Cognac,,,tyler-13-cognac,1,0
 tyler,Tyler,Size,13,Color,Navy,,,tyler-13-navy,1,0
 tyler,Tyler,Size,13,Color,Olive,,,tyler-13-olive,1,0
 tyler,Tyler,Size,13,Color,Pink,,,tyler-13-pink,1,0
-tyler,Tyler,Size,14,Color,Antique Red,,,tyler-14-antiquered,1,0
-tyler,Tyler,Size,14,Color,Black,,,tyler-14-black,1,0
+tyler,Tyler,Size,14,Color,Antique Red,,,tyler-14-antiquered,0,0
+tyler,Tyler,Size,14,Color,Black,,,tyler-14-black,0,0
 tyler,Tyler,Size,14,Color,Cognac,,,tyler-14-cognac,1,0
 tyler,Tyler,Size,14,Color,Navy,,,tyler-14-navy,1,0
 tyler,Tyler,Size,14,Color,Olive,,,tyler-14-olive,1,0
@@ -794,60 +794,33 @@ tyler,Tyler,Size,14,Color,Pink,,,tyler-14-pink,1,0
 zach,Zach,Size,8,Color,Black,,,zach-8-black,1,0
 zach,Zach,Size,8,Color,Pink,,,zach-8-pink,1,0
 zach,Zach,Size,8,Color,Navy,,,zach-8-navy,1,0
-zach,Zach,Size,8.5,Color,Black,,,zach-8.5-black,1,0
-zach,Zach,Size,8.5,Color,Pink,,,zach-8.5-pink,1,0
-zach,Zach,Size,8.5,Color,Navy,,,zach-8.5-navy,1,0
+zach,Zach,Size,8.5,Color,Black,,,zach-8.5-black,0,0
+zach,Zach,Size,8.5,Color,Pink,,,zach-8.5-pink,0,0
+zach,Zach,Size,8.5,Color,Navy,,,zach-8.5-navy,0,0
 zach,Zach,Size,9,Color,Black,,,zach-9-black,1,0
 zach,Zach,Size,9,Color,Pink,,,zach-9-pink,1,0
 zach,Zach,Size,9,Color,Navy,,,zach-9-navy,1,0
-zach,Zach,Size,9.5,Color,Black,,,zach-9.5-black,1,0
-zach,Zach,Size,9.5,Color,Pink,,,zach-9.5-pink,1,0
-zach,Zach,Size,9.5,Color,Navy,,,zach-9.5-navy,1,0
+zach,Zach,Size,9.5,Color,Black,,,zach-9.5-black,0,0
+zach,Zach,Size,9.5,Color,Pink,,,zach-9.5-pink,0,0
+zach,Zach,Size,9.5,Color,Navy,,,zach-9.5-navy,0,0
 zach,Zach,Size,10,Color,Black,,,zach-10-black,1,0
 zach,Zach,Size,10,Color,Pink,,,zach-10-pink,1,0
 zach,Zach,Size,10,Color,Navy,,,zach-10-navy,1,0
-zach,Zach,Size,10.5,Color,Black,,,zach-10.5-black,1,0
-zach,Zach,Size,10.5,Color,Pink,,,zach-10.5-pink,1,0
-zach,Zach,Size,10.5,Color,Navy,,,zach-10.5-navy,1,0
+zach,Zach,Size,10.5,Color,Black,,,zach-10.5-black,0,0
+zach,Zach,Size,10.5,Color,Pink,,,zach-10.5-pink,0,0
+zach,Zach,Size,10.5,Color,Navy,,,zach-10.5-navy,0,0
 zach,Zach,Size,11,Color,Black,,,zach-11-black,1,0
 zach,Zach,Size,11,Color,Pink,,,zach-11-pink,1,0
 zach,Zach,Size,11,Color,Navy,,,zach-11-navy,1,0
-zach,Zach,Size,11.5,Color,Black,,,zach-11.5-black,1,0
-zach,Zach,Size,11.5,Color,Pink,,,zach-11.5-pink,1,0
-zach,Zach,Size,11.5,Color,Navy,,,zach-11.5-navy,1,0
+zach,Zach,Size,11.5,Color,Black,,,zach-11.5-black,0,0
+zach,Zach,Size,11.5,Color,Pink,,,zach-11.5-pink,0,0
+zach,Zach,Size,11.5,Color,Navy,,,zach-11.5-navy,0,0
 zach,Zach,Size,12,Color,Black,,,zach-12-black,1,0
 zach,Zach,Size,12,Color,Pink,,,zach-12-pink,1,0
 zach,Zach,Size,12,Color,Navy,,,zach-12-navy,1,0
 zach,Zach,Size,13,Color,Black,,,zach-13-black,1,0
 zach,Zach,Size,13,Color,Pink,,,zach-13-pink,1,0
 zach,Zach,Size,13,Color,Navy,,,zach-13-navy,1,0
-zach,Zach,Size,14,Color,Black,,,zach-14-black,1,0
-zach,Zach,Size,14,Color,Pink,,,zach-14-pink,1,0
-zach,Zach,Size,14,Color,Navy,,,zach-14-navy,1,0
-306,306,Size,46,Color,Blue,,,306-46-blue,0,0
-306,306,Size,46,Color,Bordo,,,306-46-bordo,0,0
-306,306,Size,46,Color,Green,,,306-46-green,0,0
-306,306,Size,46,Color,Red,,,306-46-red,0,0
-306,306,Size,46,Color,Rust,,,306-46-rust,0,0
-305,305,Size,46,Color,Bordo,,,305-46-bordo,1,0
-305,305,Size,46,Color,Red,,,305-46-red,1,0
-304,304,Size,46,Color,Black,,,304-46-black,1,0
-304,304,Size,46,Color,Brown,,,304-46-brown,1,0
-304,304,Size,46,Color,Olive,,,304-46-olive,1,0
-304,304,Size,46,Color,Navy,,,304-46-navy,1,0
-304,304,Size,46,Color,White,,,304-46-white,1,0
-304,304,Size,46,Color,Wine,,,304-46-wine,1,0
-303,303,Size,46,Color,Black,,,303-46-black,1,0
-303,303,Size,46,Color,Chocolate,,,303-46-chocolate,1,0
-302,302,Size,46,Color,Black,,,302-46-black,1,0
-302,302,Size,46,Color,Beige,,,302-46-beige,1,0
-302,302,Size,46,Color,Brown,,,302-46-brown,1,0
-302,302,Size,46,Color,Burgundy,,,302-46-burgundy,1,0
-302,302,Size,46,Color,Cognac,,,302-46-cognac,1,0
-302,302,Size,46,Color,Olive,,,302-46-olive,1,0
-302,302,Size,46,Color,Red,,,302-46-red,1,0
-301,301,Size,46,Color,Black,,,301-46-black,1,0
-301,301,Size,46,Color,Chocolate,,,301-46-chocolate,1,0
-301,301,Size,46,Color,Dark Grey,,,301-46-darkgrey,1,0
-301,301,Size,46,Color,Navy,,,301-46-navy,1,0
-301,301,Size,46,Color,Wine,,,301-46-wine,1,0
+zach,Zach,Size,14,Color,Black,,,zach-14-black,0,0
+zach,Zach,Size,14,Color,Pink,,,zach-14-pink,0,0
+zach,Zach,Size,14,Color,Navy,,,zach-14-navy,0,0
