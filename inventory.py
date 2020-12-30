@@ -31,8 +31,8 @@ def newProduct(rows):
     published = r['Published']
     taxable = r['Variant Taxable']
 
-    online = [r['Online']]
-    retail = [r['Retail']]
+    # online = [r['Online']]
+    # retail = [r['Retail']]
     for row in rows:
         if row['Option1 Value'] not in sizes and row['Option1 Value'] != '':
             sizes.append(row['Option1 Value'])
@@ -43,14 +43,14 @@ def newProduct(rows):
         # colors, images, variant images, barcodes'
         barcode.append(row['Variant Barcode'])
         sku.append(row['Variant SKU'])
-        online.append(row['Online'])
-        retail.append(row['Retail'])
+        # online.append(row['Online'])
+        # retail.append(row['Retail'])
         price.append(row['Variant Price'])
         oldprice.append(row['Variant Compare At Price'])
     
     inventory = []
-    for i in range(len(online)):
-        inventory.append((online[i], retail[i]))
+    # for i in range(len(online)):
+    #     inventory.append((online[i], retail[i]))
 
             
     return product(handle=handle, title=title, body=body, vendor=vendor, type=type, tags=tags, sizes=sizes, colors=colors, price=price, oldprice=oldprice, barcode=barcode, images=images, seotitle=seotitle, seodescription=seodescription, sku=sku, published=published, taxable=taxable, inventory=inventory)
