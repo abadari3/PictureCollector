@@ -1,0 +1,106 @@
+﻿Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / AdWords Grouping,Google Shopping / AdWords Labels,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item
+prestige-011-sweater,Prestige 011 Sweater,"<meta charset=""utf-8"">
+<ul>
+<li>Luxury Prestige Sweater</li>
+<li>Style 011</li>
+<li>Rayon and Cotton Blends</li>
+</ul>",Prestige,Sweater,"size:M, size:L, size:XL, size:2XL, color:Black, color:Pink",TRUE,Size,L,Color,Black,,,prestige-011-sweater-l-black,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/011/SW-011-BLACK.JPG,1,,FALSE,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/011/SW-011-BLACK.JPG,lb,,
+prestige-011-sweater,,,,,,,,XL,,Black,,,prestige-011-sweater-xl-black,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/011/SW-011-PINK.JPG,2,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/011/SW-011-BLACK.JPG,lb,,
+prestige-011-sweater,,,,,,,,M,,Pink,,,prestige-011-sweater-m-pink,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/011/SW-011-BLACK.JPG,lb,,
+prestige-011-sweater,,,,,,,,L,,Pink,,,prestige-011-sweater-l-pink,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/011/SW-011-BLACK.JPG,lb,,
+prestige-011-sweater,,,,,,,,XL,,Pink,,,prestige-011-sweater-xl-pink,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/011/SW-011-BLACK.JPG,lb,,
+prestige-011-sweater,,,,,,,,2XL,,Pink,,,prestige-011-sweater-2xl-pink,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/011/SW-011-BLACK.JPG,lb,,
+prestige-016-sweater,Prestige 016 Sweater,"<meta charset=""utf-8"">
+<ul>
+<li>Luxury Prestige Sweater</li>
+<li>Style 0228</li>
+<li>Rayon and Cotton Blends</li>
+</ul>",Prestige,Sweater,"size:3XL, size:L, size:XL, size:2XL, color:Navy, color:White",TRUE,Size,L,Color,Navy,,,prestige-016-sweater-l-navy,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/016/SW-016-NAVY.JPG,1,,FALSE,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/016/SW-016-NAVY.JPG,lb,,
+prestige-016-sweater,,,,,,,,XL,,Navy,,,prestige-016-sweater-xl-navy,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/016/SW-016-WHITE.JPG,2,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/016/SW-016-NAVY.JPG,lb,,
+prestige-016-sweater,,,,,,,,2XL,,Navy,,,prestige-016-sweater-2xl-navy,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/016/SW-016-NAVY.JPG,lb,,
+prestige-016-sweater,,,,,,,,L,,White,,,prestige-016-sweater-l-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/016/SW-016-WHITE.JPG,lb,,
+prestige-016-sweater,,,,,,,,XL,,White,,,prestige-016-sweater-xl-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/016/SW-016-WHITE.JPG,lb,,
+prestige-016-sweater,,,,,,,,2XL,,White,,,prestige-016-sweater-2xl-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/016/SW-016-WHITE.JPG,lb,,
+prestige-016-sweater,,,,,,,,3XL,,White,,,prestige-016-sweater-3xl-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/016/SW-016-WHITE.JPG,lb,,
+prestige-018-sweater,Prestige 018 Sweater,"<meta charset=""utf-8"">
+<ul>
+<li>Luxury Prestige Sweater</li>
+<li>Style 018</li>
+<li>Rayon and Cotton Blends</li>
+</ul>",Prestige,Sweater,"size:3XL, size:L, size:XL, size:2XL, color:Green, color:White",TRUE,Size,L,Color,White,,,prestige-018-sweater-l-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/018/SW-018-WHITE.JPG,1,,FALSE,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/018/SW-018-WHITE.JPG,lb,,
+prestige-018-sweater,,,,,,,,XL,,White,,,prestige-018-sweater-xl-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/018/SW-018-GREEN.JPG,2,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/018/SW-018-WHITE.JPG,lb,,
+prestige-018-sweater,,,,,,,,2XL,,White,,,prestige-018-sweater-2xl-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/018/SW-018-WHITE.JPG,lb,,
+prestige-018-sweater,,,,,,,,L,,Green,,,prestige-018-sweater-l-green,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/018/SW-018-GREEN.JPG,lb,,
+prestige-018-sweater,,,,,,,,XL,,Green,,,prestige-018-sweater-xl-green,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/018/SW-018-GREEN.JPG,lb,,
+prestige-018-sweater,,,,,,,,2XL,,Green,,,prestige-018-sweater-2xl-green,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/018/SW-018-GREEN.JPG,lb,,
+prestige-018-sweater,,,,,,,,3XL,,Green,,,prestige-018-sweater-3xl-green,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/018/SW-018-GREEN.JPG,lb,,
+prestige-028-sweater,Prestige 028 Sweater,"<meta charset=""utf-8"">
+<ul>
+<li>Luxury Prestige Sweater</li>
+<li>Style 028</li>
+<li>Rayon and Cotton Blends</li>
+</ul>",Prestige,Sweater,"size:3XL, size:L, size:XL, size:2XL, size:M, size:4XL, color:Brown, color:Red, color:White",TRUE,Size,M,Color,Brown,,,prestige-028-sweater-m-brown,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-BROWN.JPG,1,,FALSE,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-BROWN.JPG,lb,,
+prestige-028-sweater,,,,,,,,L,,Brown,,,prestige-028-sweater-l-brown,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-WHITE.JPG,2,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-BROWN.JPG,lb,,
+prestige-028-sweater,,,,,,,,XL,,Brown,,,prestige-028-sweater-xl-brown,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-RED.JPG,3,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-BROWN.JPG,lb,,
+prestige-028-sweater,,,,,,,,3XL,,Brown,,,prestige-028-sweater-3xl-brown,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-BROWN.JPG,lb,,
+prestige-028-sweater,,,,,,,,M,,White,,,prestige-028-sweater-m-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-WHITE.JPG,lb,,
+prestige-028-sweater,,,,,,,,L,,White,,,prestige-028-sweater-l-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-WHITE.JPG,lb,,
+prestige-028-sweater,,,,,,,,XL,,White,,,prestige-028-sweater-xl-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-WHITE.JPG,lb,,
+prestige-028-sweater,,,,,,,,2XL,,White,,,prestige-028-sweater-2xl-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-WHITE.JPG,lb,,
+prestige-028-sweater,,,,,,,,4XL,,White,,,prestige-028-sweater-4xl-white,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-WHITE.JPG,lb,,
+prestige-028-sweater,,,,,,,,M,,Red,,,prestige-028-sweater-m-red,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-RED.JPG,lb,,
+prestige-028-sweater,,,,,,,,L,,Red,,,prestige-028-sweater-l-red,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-RED.JPG,lb,,
+prestige-028-sweater,,,,,,,,XL,,Red,,,prestige-028-sweater-xl-red,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-RED.JPG,lb,,
+prestige-028-sweater,,,,,,,,2XL,,Red,,,prestige-028-sweater-2xl-red,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-RED.JPG,lb,,
+prestige-028-sweater,,,,,,,,3XL,,Red,,,prestige-028-sweater-3xl-red,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-RED.JPG,lb,,
+prestige-028-sweater,,,,,,,,4XL,,Red,,,prestige-028-sweater-4xl-red,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/028/SW-028-RED.JPG,lb,,
+prestige-261-sweater,Prestige 261 Sweater,"<meta charset=""utf-8"">
+<ul>
+<li>Luxury Prestige Sweater</li>
+<li>Style 261</li>
+<li>Rayon and Cotton Blends</li>
+</ul>",Prestige,Sweater,"size:3XL, size:L, size:XL, size:2XL, size:M, size:4XL, color:Brown, color:Orange, color:Navy",TRUE,Size,L,Color,Orange,,,prestige-261-sweater-l-orange,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-ORANGE.JPG,1,,FALSE,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-ORANGE.JPG,lb,,
+prestige-261-sweater,,,,,,,,XL,,Orange,,,prestige-261-sweater-xl-orange,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-NAVY.JPG,2,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-ORANGE.JPG,lb,,
+prestige-261-sweater,,,,,,,,2XL,,Orange,,,prestige-261-sweater-2xl-orange,0,shopify,deny,manual,100,200,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-BLACK.JPG,3,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-ORANGE.JPG,lb,,
+prestige-261-sweater,,,,,,,,3XL,,Orange,,,prestige-261-sweater-3xl-orange,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-ORANGE.JPG,lb,,
+prestige-261-sweater,,,,,,,,L,,Navy,,,prestige-261-sweater-l-navy,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-NAVY.JPG,lb,,
+prestige-261-sweater,,,,,,,,XL,,Navy,,,prestige-261-sweater-xl-navy,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-NAVY.JPG,lb,,
+prestige-261-sweater,,,,,,,,2XL,,Navy,,,prestige-261-sweater-2xl-navy,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-NAVY.JPG,lb,,
+prestige-261-sweater,,,,,,,,3XL,,Navy,,,prestige-261-sweater-3xl-navy,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-NAVY.JPG,lb,,
+prestige-261-sweater,,,,,,,,M,,Black,,,prestige-261-sweater-m-black,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-BLACK.JPG,lb,,
+prestige-261-sweater,,,,,,,,L,,Black,,,prestige-261-sweater-l-black,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-BLACK.JPG,lb,,
+prestige-261-sweater,,,,,,,,XL,,Black,,,prestige-261-sweater-xl-black,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-BLACK.JPG,lb,,
+prestige-261-sweater,,,,,,,,2XL,,Black,,,prestige-261-sweater-2xl-black,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-BLACK.JPG,lb,,
+prestige-261-sweater,,,,,,,,3XL,,Black,,,prestige-261-sweater-3xl-black,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-BLACK.JPG,lb,,
+prestige-261-sweater,,,,,,,,4XL,,Black,,,prestige-261-sweater-4xl-black,0,shopify,deny,manual,100,200,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/261/PNK-261-BLACK.JPG,lb,,
+prestige-401-sweater,Prestige 401 Sweater,"<meta charset=""utf-8"">
+<ul>
+<li>Luxury Prestige Sweater</li>
+<li>Style 401</li>
+<li>Rayon and Cotton Blends</li>
+</ul>",Prestige,Sweater,"size:3XL, size:L, size:XL, size:2XL, size:M, color:Red, color:White",TRUE,Size,M,Color,Red,,,prestige-401-sweater-m-red,0,shopify,deny,manual,90,150,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/401/PD-401-RED.JPG,1,,FALSE,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/401/PD-401-RED.JPG,lb,,
+prestige-401-sweater,,,,,,,,L,,Red,,,prestige-401-sweater-l-red,0,shopify,deny,manual,90,150,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/401/PD-401-WHITE.JPG,2,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/401/PD-401-RED.JPG,lb,,
+prestige-401-sweater,,,,,,,,XL,,Red,,,prestige-401-sweater-xl-red,0,shopify,deny,manual,90,150,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/401/PD-401-RED.JPG,lb,,
+prestige-401-sweater,,,,,,,,2XL,,Red,,,prestige-401-sweater-2xl-red,0,shopify,deny,manual,90,150,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/401/PD-401-RED.JPG,lb,,
+prestige-401-sweater,,,,,,,,3XL,,Red,,,prestige-401-sweater-3xl-red,0,shopify,deny,manual,90,150,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/401/PD-401-RED.JPG,lb,,
+prestige-401-sweater,,,,,,,,L,,White,,,prestige-401-sweater-l-white,0,shopify,deny,manual,90,150,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/401/PD-401-WHITE.JPG,lb,,
+prestige-401-sweater,,,,,,,,XL,,White,,,prestige-401-sweater-xl-white,0,shopify,deny,manual,90,150,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/401/PD-401-WHITE.JPG,lb,,
+prestige-401-sweater,,,,,,,,2XL,,White,,,prestige-401-sweater-2xl-white,0,shopify,deny,manual,90,150,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/401/PD-401-WHITE.JPG,lb,,
+prestige-401-sweater,,,,,,,,3XL,,White,,,prestige-401-sweater-3xl-white,0,shopify,deny,manual,90,150,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/401/PD-401-WHITE.JPG,lb,,
+prestige-404-sweater,Prestige 404 Sweater,"<meta charset=""utf-8"">
+<ul>
+<li>Luxury Prestige Sweater</li>
+<li>Style 404</li>
+<li>Rayon and Cotton Blends</li>
+</ul>",Prestige,Sweater,"size:3XL, size:L, size:XL, size:2XL, size:M, size:4XL, color:Black, color:White, color:Multi",TRUE,Size,L,Color,Black,,,prestige-404-sweater-l-black,0,shopify,deny,manual,150,245,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-BLACK.JPG,1,,FALSE,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-BLACK.JPG,lb,,
+prestige-404-sweater,,,,,,,,XL,,Black,,,prestige-404-sweater-xl-black,0,shopify,deny,manual,150,245,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-WHITE.JPG,2,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-BLACK.JPG,lb,,
+prestige-404-sweater,,,,,,,,3XL,,Black,,,prestige-404-sweater-3xl-black,0,shopify,deny,manual,150,245,TRUE,TRUE,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-MULTI-4.JPG,3,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-BLACK.JPG,lb,,
+prestige-404-sweater,,,,,,,,M,,White,,,prestige-404-sweater-m-white,0,shopify,deny,manual,150,245,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-WHITE.JPG,lb,,
+prestige-404-sweater,,,,,,,,L,,White,,,prestige-404-sweater-l-white,0,shopify,deny,manual,150,245,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-WHITE.JPG,lb,,
+prestige-404-sweater,,,,,,,,XL,,White,,,prestige-404-sweater-xl-white,0,shopify,deny,manual,150,245,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-WHITE.JPG,lb,,
+prestige-404-sweater,,,,,,,,2XL,,White,,,prestige-404-sweater-2xl-white,0,shopify,deny,manual,150,245,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-WHITE.JPG,lb,,
+prestige-404-sweater,,,,,,,,L,,Multi,,,prestige-404-sweater-l-multi,0,shopify,deny,manual,150,245,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-MULTI-4.JPG,lb,,
+prestige-404-sweater,,,,,,,,XL,,Multi,,,prestige-404-sweater-xl-multi,0,shopify,deny,manual,150,245,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-MULTI-4.JPG,lb,,
+prestige-404-sweater,,,,,,,,2XL,,Multi,,,prestige-404-sweater-2xl-multi,0,shopify,deny,manual,150,245,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-MULTI-4.JPG,lb,,
+prestige-404-sweater,,,,,,,,3XL,,Multi,,,prestige-404-sweater-3xl-multi,0,shopify,deny,manual,150,245,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-MULTI-4.JPG,lb,,
+prestige-404-sweater,,,,,,,,4XL,,Multi,,,prestige-404-sweater-4xl-multi,0,shopify,deny,manual,150,245,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,https://github.com/abadari3/Shopify-Product-Manager/raw/master/Prestige%20Sweaters/404/PD-404-MULTI-4.JPG,lb,,
